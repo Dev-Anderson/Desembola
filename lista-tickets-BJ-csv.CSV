@@ -1,426 +1,426 @@
-Número;Assunto;Aberto em;Status;Número Task;Departamento.;Categoria;Responsável
-242446;Contas Contábeis - Configurar a  requisição ao relacionar as contas contábeis.;22/09/2023 10:39;Aguardando;15595,00;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-245530;Editar nota fiscal de entrada sem necessidade de excluir a mesma e refazer o lançamento;03/10/2023 09:36;Novo;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-245622;Na seleção do pedido de venda no faturamento de saida mostrar a operacao do pedido pra facilitar a identificação;03/10/2023 11:23;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-245847;Conhecimento de Transporte - Rateio de Centro de Custo.;03/10/2023 17:03;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-245861;Requisição de Materiais - Apontamento da contabilização por conta de estoque;03/10/2023 17:16;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-254963;CND DA EMPRESA , DO PRODUTO E VALIDADE DO CADASTRO DO INDEIA;06/11/2023 10:37;Aguardando;;;Adequação;SIMER | BACKOFFICE | PRODUTO
-269335;Implantação de Saldo Inicial Crédito de ICMS;02/01/2024 14:39;Novo;;;Adequação;SIMER | LEGAL | PRODUTO
-254975;IMPORTAÇÃO DE DADOS DA SEFAZ CPF E CNPJ DO CARTÃO CNPJ OU SINTEGRA;06/11/2023 10:53;Novo;;;Adequação;SIMER | BACKOFFICE | PRODUTO
-255174;INDEXADOR - TER 03 COTAÇÕES DE COTAÇÕES DO MESMO DIA;06/11/2023 16:38;Novo;;;Adequação;SIMER | BACKOFFICE | PRODUTO
-255268;PEDIDO DE COMPRA PARA SERVIÇOS;07/11/2023 08:23;Novo;;;Adequação;SIMER | BACKOFFICE | PRODUTO
-261818;Criar Modulo Financiamentos;01/12/2023 11:44;Pausado;2580,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-264542;Configurador do Faturamento de Entrada não permite salvar a inclusão de uma nova operação interna.;11/12/2023 17:48;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-259266;"implementação de ""Histórico de Atividade"" para  o Contas a Pagar";22/11/2023 11:19;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-259648;"Romaneio de saída - Precificação por operação não considera o tipo de valor ""Tabela de preço"" .";23/11/2023 13:51;Aguardando;15527,00;Grãos;Adequação;ARIANE DOS SANTOS PEDROSO
-294569;Permitir editar a data de emissão do contrato de compra;28/03/2024 09:24;Aguardando;14268,00;;Adequação;SIMER | VERTICAIS | PRODUTO
-302199;Fixação - Adicional agrícola por pessoa não está respeitando o prazo de pagamento do adicional.;26/04/2024 10:47;Aguardando;8549,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-503211;Nota Fiscal - Key User em informações complementares;10/05/2024 08:31;Novo;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-504941;Importação de CTe - Personalizar Grid;16/05/2024 14:21;Novo;;Transporte;Adequação;SIMER | LEGAL | PRODUTO
-300103;Faturamento de Saída - Flag Saldo Físico no Faturamento de Venda Seleção Pedido;18/04/2024 14:02;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-300365;Solicitação de Receituário Agronômico - Personalizar Grid;19/04/2024 10:16;Novo;;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-301039;Pessoa - cadastro tipo motorista criar aviso vencimento da CNH;23/04/2024 09:05;Novo;;Transporte;Adequação;SIMER | BACKOFFICE | PRODUTO
-301445;Configurador Pedido de Venda;24/04/2024 10:00;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-505977;"Configurador do Faturamento de entrada - Permite faturamento sem pedido está como ""sim"" , permite faturamento sem Romaneio está como ""não"".";21/05/2024 11:59;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-503271;Captura Umidade na Classificação - MOTOMCO Modelo: 999 ESI;10/05/2024 09:56;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-502930;Definição de Carteira Financeira do Pedido de Venda;09/05/2024 10:16;Aguardando;14929,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-273854;Tabela para apontamento de medidas para romaneio de Lenha;17/01/2024 17:45;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-286235;Incluir o nome do usuário na impressão do romaneio;29/02/2024 10:08;Aguardando;10015,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-277270;Romaneio - Ocorreu um erro interno no sistema. Tente novamente e caso o problema persistir, entre em contato com o administrador do sistema.;30/01/2024 13:40;Aguardando;15530,00;Grãos;Adequação;ARIANE DOS SANTOS PEDROSO
-275624;"Numeração de documentos - Falha grave no processo ""Transferência Entre Filiais de Grãos""";24/01/2024 12:07;Aguardando;15533,00;Contabilidade;Adequação;MARCELO ANDRE ENGELMANN
-298186;Implantacao saldos de estoque;11/04/2024 13:28;Aguardando;15555,00;;Adequação;DANGELO DE NARDIN
-506010;Bom Jesus - Layout impressão da Danfe;21/05/2024 14:00;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-510496;Lançamento de Capital Subscrito - Observações financeiras no Titulo;07/06/2024 08:42;Pausado;;Financeiro;Adequação;SIMER | VERTICAIS | PRODUTO
-507038;Bom Jesus - Informações financeiras nas rotinas de recebimento de adiantamento e pagamento de adiantamento;24/05/2024 14:21;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-507041;Recebimento de Adiantamento  e Pagamento de adiantamento - Trazer como padrão o primeiro local da pessoa;24/05/2024 14:33;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-507045;Recebimento de Adiantamento  e Pagamento de adiantamento - Não permitir trocar a carteira financeira;24/05/2024 14:39;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-507048;Adiantamento e Compensação Financeira Automática do Pedido de Compra;24/05/2024 14:46;Aguardando;9392,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-507593;Perfil de Acesso - Permissões não são removidas;28/05/2024 08:42;Pausado;8286,00;T.I;Adequação;SIMER | BACKOFFICE | PRODUTO
-507632;Configurador de aprovação - Permitir informar valor negativo na faixa de aprovação automática;28/05/2024 09:46;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-511423;Nota Fiscal - Impressão de DATA DE FABRICAÇÃO na nota fiscal para produtos que controla lote;11/06/2024 11:39;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-506726;Saldo de Estoque - Gerar relatório para conferência / conferência cega e ou auditoria;23/05/2024 14:39;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-508091;Pedido de Compra - Melhorias;29/05/2024 14:26;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-509527;Pedido de Vendas - Mensagem Informativa;04/06/2024 17:05;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-515447;Conta de Estoque do Produto - Personalizar Grid;25/06/2024 11:47;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-513617;Emissão MDFe - Adequação do Layout;18/06/2024 17:26;Novo;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-514183;Manutenção de Requisição de Material - Atenção:  Evento [valor bruto] não possui configuração contábil, pelo ato cooperado não associado ou sem destinção.;20/06/2024 10:32;Pausado;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-514453;Manutenção de Requisição de Material;21/06/2024 09:10;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-520381;Produto - Evolução no PERSONALISAR GRID;10/07/2024 10:07;Novo;;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-515265;Copia de cadastro da Safra com culturas vinculadas;25/06/2024 08:01;Pausado;;;Adequação;SIMER | VERTICAIS | PRODUTO
-516527;Bloquear Pedido de Venda para Faturamento;27/06/2024 17:50;Aguardando;9058,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-518791;Industria - Apuração do custo mensal para produção propria;04/07/2024 15:50;Pausado;12318,00;Contabilidade;Adequação;SIMER | VERTICAIS | PRODUTO
-519304;Cadastro de pessoa - consulta dados Sintegra;05/07/2024 19:09;Aguardando;;;Adequação;SIMER | BACKOFFICE | PRODUTO
-508907;Solicitação de Receita - Não apresenta o motivo do erro no envio da solicitação de receita;03/06/2024 14:17;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-508912;Melhoria - no envio para aprovação validar se o local informado no pedido de venda possui propriedade rural quando existir itens defensivo agricola;03/06/2024 14:27;Pausado;8802,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-512106;Melhoria - Inativação de Matriz de campanha;13/06/2024 09:48;Pausado;8799,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-507644;Melhoria - Solicitação de Receituário Agronomico;28/05/2024 10:01;Aguardando;8805,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-506209;Faturamento de saída - Não apresentar mensagem referente a validação da programação de entrega do contrato quando se tratar de venda a ordem;22/05/2024 08:38;Aguardando;14269,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-509579;Saldo de Estoque Físico ou Próprio - inconsistências no relatório;04/06/2024 18:15;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-509764;"Filtro e Campo no ""Personalizar"" de Tipagem de Produto Agricola na Consulta ""Saldo de Estoque""";05/06/2024 11:57;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-507760;"Melhoria - Validação no Faturamento de Saida ""aba transporte""";28/05/2024 14:15;Pausado;8803,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-515650;Classificação - Não Permitir Cadastrar Mais de Uma Classificação Para a Mesma Placa Sem Que a Primeira Esteja Vinculada.;25/06/2024 17:52;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-507719;"Melhoria - tempo de permanecia das mensagens de ""Atenção"" para os usuários.";28/05/2024 11:34;Pausado;8804,00;T.I;Adequação;CECILIA NAJA VANIN DO AMARAL TOCHETTO
-518289;Permitir fazer complemento de peso - contrato valor a fixar;03/07/2024 15:37;Aguardando;9467,00;;Adequação;ROBERTO ALENCAR
-522853;Adiantamento vinculado ao contrato de venda com compensação de forma automática;18/07/2024 09:13;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-522989;Contrato de Venda - Inserir campo para preenchimento do Numero do contrato do intermediário (agenciador/corretagem) no contrato de Venda.;18/07/2024 12:01;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-523031;Bloqueio de Saldo Agrícola - Incluir Campo de Observação.;18/07/2024 14:27;Aguardando;14278,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-523221;"Produtos Agricolas que não controlam Genetica(transgenia) setar ""Não controla"" automaticamente";19/07/2024 08:29;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-560999;Nota de Fixação (Compra) sair nos dados adicionais o nº do contrato;13/11/2024 15:38;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-540388;Romaneio - O sistema está Imprimindo Apenas a Nota de Remessa.;13/09/2024 10:15;Aguardando;14277,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-549516;Faturamento de Saída - Realizar Nota de Complemento Não Busca Valor da Nota de Origem.;10/10/2024 11:00;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-577617;Extrato de Movimentação de  Controle de NF - Totalizador por Produto Incorreto.;14/01/2025 11:46;Pausado;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-576079;Evolução - Liberação de data retroativa com vigência;08/01/2025 18:47;Novo;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-573359;Implantação de Venda para Devolução - Busca tributação da nota origem.;27/12/2024 16:36;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-571626;Emissão MD-e - Aviso: Não deve ser selecionando notas de origens com veículos diferentes.;18/12/2024 18:04;Pausado;;Transporte;Adequação;SIMER | LEGAL | PRODUTO
-577511;Emissão MDFe - Personalizar Filtro com Inclusão de Placa de Veículo.;14/01/2025 09:54;Novo;;Transporte;Adequação;SIMER | LEGAL | PRODUTO
-574745;Mensagem de Disposição Final de Resíduo e Embalagem - Seletor de Filiais.;06/01/2025 09:31;Pausado;;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-567697;Faturamento de Saída - Solicitação de melhorias nas informações complementares da nota fiscal;06/12/2024 09:12;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-569620;Lançamento de Despesa - Solicitação de melhoria personalizar grid;12/12/2024 09:45;Pausado;;Transporte;Adequação;SIMER | BACKOFFICE | PRODUTO
-569634;Lançamento de despesa - Solicitação de Melhoria no lançamento do rateio do imobilizado;12/12/2024 10:06;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-577851;Faturamento de Saída - Sistema não permite faturar pedido parcial com receitas emitidas e com status de finalizada.;14/01/2025 20:49;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-580068;Requisição de Material - Solicitação de Melhoria relatórios;21/01/2025 16:20;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-553330;Pedido de venda - Sistema deverá BLOQUEAR produtos do tipo IMOBILIZADO e ALMOXARIFADO na seleção de produto no pedido;22/10/2024 10:01;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-561267;Pedido de Venda - Transporte Próprio por Conta do Destinatário.;14/11/2024 11:16;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-556891;Requisição de Material - Melhoria na seletor de ALMOXARIFADO ATENDENTE;31/10/2024 17:13;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-528140;Tabela de preço - Solicitação de melhorias;06/08/2024 16:05;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-530141;Pedido de Venda - Impressão Pedido de Venda > Informações;13/08/2024 13:52;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-530542;Central de Pedidos de Venda > Manutenção > Substituição - Apresenta MSG cujo interpretação não condiz com o pedido;14/08/2024 13:39;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-532784;Emissão MDFe - Solicitação de melhoria / filtro para selecionar notas fiscais;21/08/2024 11:49;Novo;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-532875;Extrato de Movimentação do Pedido de Compra - Adequação Filtro;21/08/2024 15:39;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-534361;Emissão MDFe - Solicitação de Melhorias na emissão;27/08/2024 09:32;Novo;;Transporte;Adequação;SIMER | LEGAL | PRODUTO
-537273;Pedido de venda - Aviso: Data de vencimento da última parcela deve ser menor ou igual a data de validade.;04/09/2024 15:42;Aguardando;2147,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-549366;Central do Associado - Baixa Automática de Saída de Sócio.;10/10/2024 08:27;Aguardando;21259,00;Financeiro;Adequação;SIMER | VERTICAIS | PRODUTO
-578321;Lançamento Despesas - Inclusão de opção de avançar e copiar os dados do lançamento anterior.;15/01/2025 17:09;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-578418;Liberação de valor a pagar -  aparecer essa opção assim que finalizar lançamento que precisa de autoização;16/01/2025 09:14;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-557175;Contrato de Compra - Ao adicionar um contrato de compra a partir de uma opção de compra da empresa, carregar o campo quantidade vazio;01/11/2024 13:42;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-566695;Perfil de Acesso -  inconsistência no log de do perfil de acesso nas alterações com grande volume de dados/registros;03/12/2024 17:36;Pausado;11403,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-563204;Configurador de Faturamento de Entrada - Revisar regras de exceções de operação interna quando a regra geral estiver marcadas como SIM;22/11/2024 14:30;Pausado;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-570005;Inconsistência identificadas pela equipe do Vistra nas conferências;13/12/2024 08:38;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-570775;Implementar a impressão da Solicitação de Transferência conforme exemplo anexo;17/12/2024 08:17;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-575427;Programação de Embarque - Obrigar Informar Tipo de Frete;07/01/2025 15:01;Aguardando;12026,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-521288;Implantação de Saldo de Estoque - Não esta excluindo o registro do Saldo.;12/07/2024 11:54;Aguardando;15534,00;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-579887;Sistema permitindo o registro de notas fiscais com chave de acesso de apenas 40 dígitos;21/01/2025 11:32;Aguardando;;Grãos;Adequação;SIMER | LEGAL | PRODUTO
-521923;Implementação de Adicional por Prazo de Pagamento em Valor.;16/07/2024 09:00;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-571858;Filtro com informações de quem fez a programação financeira;19/12/2024 13:37;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-573881;Contas a Pagar - Erro: Existem Carteiras Financeiras com Restrição de Visualização, desta forma alguns títulos e outras informações poderão não ser listadas.;02/01/2025 09:34;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-522444;Faturamento de Entrada- O Servidor retornou que não conseguiu responder a solicitação. (code 500);17/07/2024 09:52;Pausado;8983,00;;Adequação;SIMER | BACKOFFICE | PRODUTO
-533391;Númeração do Lançamentos de Despesas;22/08/2024 17:31;Pausado;16154,00;;Adequação;SIMER | BACKOFFICE | PRODUTO
-575254;Ordem de Carregamento – Itens Baixados Ainda Aparecendo no Faturamento.;07/01/2025 10:33;Aguardando;12281,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-579988;Adicionar Total da Ordem de Carregamento nas ordens por Solicitação;21/01/2025 14:51;Aguardando;17676,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-579663;RDM 12238 - Criar Logs no Webhook, para validar recebimentos do AgriQ;21/01/2025 08:03;Aguardando;15503,00;;Adequação;SIMER | INSUMOS | PRODUTO
-566607;Melhoria Formação do Preço de Venda - incluir uma coluna que apresente o valor vigente na tabela selecionada;03/12/2024 16:26;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-524976;Tabela de preço produto - criar bloqueio de novas venda e consulta preço por filial;25/07/2024 14:02;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-547279;Formação de Preço - Apresenta erro 500.;04/10/2024 08:59;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-548847;Pedido de venda Barter Não Aplica Desconto ao Valor.;09/10/2024 08:46;Aguardando;15538,00;;Adequação;SIMER | INSUMOS | PRODUTO
-541765;Faturamento de Entrada - Quantidade Isenta de Royalty Não Busca da Fixação;18/09/2024 09:08;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-549993;Classificação - Incluir Mais de Uma Tipagem aos Índices de Desconto;11/10/2024 12:04;Aguardando;15066,00;Grãos;Adequação;SIMER | GRÃOS | PRODUTO
-537192;Pesagem - Não Foi Encontrado CFOP Para Operação Interna Pesagem Avulsa (S);04/09/2024 14:42;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-571465;Listagem de Romaneios - Descontos Não exibidos no Relatório Não São Considerados Para Cálculo de Peso Líquido;18/12/2024 14:23;Aguardando;15545,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-578949;Faturamento de saída com múltiplos pedidos ao solicitar receituário o qual apenas um pedido tem químico não localiza.;17/01/2025 10:30;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-558695;Apropriação - Alerta ou processo automatizado da contabilização da apropriação;06/11/2024 16:06;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-555684;Ao gerar o balancete de verificação não está retornando dados.;29/10/2024 08:43;Aguardando;15694,00;;Adequação;WELLINGTON ALVES GOLD
-555791;Balancete de Verificação - O campo Filiais em Estrutura Organizacional é obrigatório e não está vindo preenchido com valor padrão;29/10/2024 10:21;Aguardando;15694,00;;Adequação;WELLINGTON ALVES GOLD
-537229;Controle de Aplicações (previsão de Rendimento, calculo do Imposto de Renda, Carência, controle de resgate), modelo de solução igual do cooperate;04/09/2024 14:57;Aguardando;9755,00;Financeiro;Adequação;ALINE MARTINS PREGO
-577674;Criar de regras de dependência ao estornar título principal de adiantamento;14/01/2025 15:29;Aguardando;14388,00;Financeiro;Adequação;ALINE MARTINS PREGO
-535452;Tela Fixação para impressão de Danfe - Ajuste.;29/08/2024 15:42;Aguardando;15613,00;Grãos;Adequação;ARIANE DOS SANTOS PEDROSO
-535745;Simer - criar mecanismo para realizar download dos arquivos de log;30/08/2024 11:46;Novo;;T.I;Adequação;CECILIA NAJA VANIN DO AMARAL TOCHETTO
-556857;Alterar a cor das barras de rolagem, horizontal e vertical, dos painéis do Simer para melhorar a visibilidade;31/10/2024 16:17;Novo;;T.I;Adequação;CECILIA NAJA VANIN DO AMARAL TOCHETTO
-626885;Lançamento de Despesas - Permitindo lançar a mesma nota.;06/06/2025 14:25;Pausado;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-626554;Evolução no tratamento de estoque negativo e proporção do ato cooperado em transferências entre filiais;05/06/2025 16:43;Aguardando;19539,00;Contabilidade;Adequação;SIMER | VERTICAIS | PRODUTO
-627442;Apropriação PIS/COFINS - Imobilizado.;09/06/2025 15:23;Aguardando;20286,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-637451;balancete com a estrutura do plano de contas referencial da receita.;10/07/2025 09:46;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-636796;Impressão do Plano de Contas - Ter opção para apresentar Conta Referencial (Evolução);08/07/2025 15:05;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-641848;Apuração PIS/COFINS - Valores referentes a apropriação de Imobilizado não apresenta.;23/07/2025 10:22;Aguardando;20191,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-641877;Apuração PIS/COFINS - Não levar créditos referentes a devolução de vendas de associados;23/07/2025 10:42;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-626610;Gerenciador NF-e - O sistema não disponibiliza uma consulta que permita, sem acesso ao banco de dados, identificar qual usuário realizou o cancelamento de uma nota fiscal de saída.;05/06/2025 17:16;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-626618;Faturamento de entrada - Solicitação de Melhoria - Disponibilizar a Informação em Tela de Qual Usuário Cancelou o Faturamento;05/06/2025 17:22;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-632066;Formação do Preço de Venda - permitir digitação valores até cinco casas decimais;24/06/2025 16:00;Novo;;Indústria;Adequação;SIMER | INSUMOS | PRODUTO
-632081;Tabela de Preço - Sistema não está carregando CONFIGURAÇÃO quando usuário faz alteração de preço via FORMAÇÃO DE PREÇO DE VENDA;24/06/2025 16:16;Pausado;;Indústria;Adequação;SIMER | INSUMOS | PRODUTO
-624176;Faturamento de Saída - Solicitação de melhoria no envio automático do xml e pdf da NF;29/05/2025 17:42;Novo;;Transporte;Adequação;SIMER | INSUMOS | PRODUTO
-615065;Faturamento de Saída - Ficha de Emergência Configuração para Ocultar Impressão das Bordas Coloridas.;02/05/2025 15:54;Pausado;;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-613835;Cotação de venda - Solicitação de melhorias BOM JESUS;29/04/2025 08:36;Aguardando;14375,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-591486;Produto - Criar TIPO DE PRODUTO > VEÍCULOS;20/02/2025 11:40;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-585873;"Pedido de Compra - Status ""BAIXADO""";06/02/2025 09:34;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-585001;Permitir a inserção da quantidade de caracteres correspondente às receitas emitidas pelo AgriQ;04/02/2025 14:01;Pausado;12627,00;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-585015;Saldo de Estoque - Sistema detalhar as solicitações de transferências.;04/02/2025 14:23;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-580150;Relatório de Contagem de Estoque - Solicitação de Melhoria ordenar descrição por ordem alfabética;21/01/2025 17:01;Novo;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-580173;Pesagem Manual e Automática - Solicitação de melhorias;21/01/2025 18:02;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-580544;Nfe - Solicitação de melhoria nas informações complementares;22/01/2025 16:20;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-581759;Perfil de acesso - Usuário com permissão para editar PRODUTO todavia não apresenta dados produto para edição;27/01/2025 10:22;Aguardando;15552,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-581059;Contas a pagar e a receber - Exclusão de salvar filtro.;23/01/2025 16:48;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-585173;Contas a Pagar - Aviso: Não foi encontrado registro para apresentação.;04/02/2025 16:32;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-590460;Bloquear a cobrança bancaria pra alguns clientes(Associados que pagam na loja);18/02/2025 10:57;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-590502;Bloqueio de movimentação por Carteira financeira;18/02/2025 11:17;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-590543;Quando a fixação for por Recibo de Depósito, o financeiro enxergar essa informação no acerto de contas/relatórios  já que o pagamento  não será para a pessoa da fixação, mais sim para a instituição financeira vinculado ao recibo de depósito.*;18/02/2025 12:01;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-590584;Agrupamento de CT-es a pagar (Transportora emite os cte´s  e no final de um periodo, emite a fatura referente aos cte´s pra gerar o financeiro)*;18/02/2025 13:42;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-590764;Integração Recebimento via PIX;18/02/2025 17:09;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-617280;Melhoria apuração ICMS - Automatização de Lançamentos de Notas de Transferência.;09/05/2025 11:32;Aguardando;16307,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-580387;Comunicação Simer e Agriq - Receita e Pedido Venda;22/01/2025 11:29;Pausado;12238,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-605439;Central de Aprovação - Na opção Personalizar adicionar o Campo Sócio (S) E Não-Socio (N);01/04/2025 15:20;Novo;;Indústria;Adequação;SIMER | BACKOFFICE | PRODUTO
-592826;Central de Aprovação - Apresentar apresentar informações do cheque na Central de Aprovação.;24/02/2025 17:42;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-605078;Incluir o Número do Termo Aditivo na NFe;01/04/2025 08:47;Aguardando;15528,00;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-606726;Distribuição de Sobras - Integralização de Capital Social e Geração de Títulos a Pagar;04/04/2025 10:55;Aguardando;2506,00;Contabilidade;Adequação;SIMER | VERTICAIS | PRODUTO
-605213;Demonstrativo de Contas a Pagar e Receber - Ao utilizar o filtro provisão financeira não geram títulos financeiros.;01/04/2025 11:01;Pausado;13867,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-581001;Extrato de movimento de Controle NF por pessoa e Local - Relatório não está respeitando filtros informados.;23/01/2025 15:49;Aguardando;15590,00;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-582364;Cancelamento Automático de Solicitação de Transferência;28/01/2025 12:02;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-596397;Rastreabilidade de documento - Diferença de valores entre Contábil e Fiscal.;07/03/2025 08:56;Pausado;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-621199;Borderô - Pagamento em duas contas diferentes;21/05/2025 11:03;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-623508;Melhoria Adiantamento de Pedido de Compra e Faturamento de Entrada.;28/05/2025 11:02;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-620824;Geração de Boleto Bancário - Não possibilita a impressão.;20/05/2025 14:45;Aguardando;15558,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-621081;"Melhoria na tela ""Preço Alvo"".";21/05/2025 09:05;Pausado;;Financeiro;Adequação;SIMER | INSUMOS | PRODUTO
-630325;"Configurador de Encargos Financeiros - Erro ao atribuir ""Encargo Financeiro"" a títulos de baixa de itens no Pedido de Venda que gera financeiro.";17/06/2025 16:33;Pausado;;Financeiro;Adequação;SIMER | INSUMOS | PRODUTO
-631248;Liberar Valor a Pagar - Aviso: Não Foi Encontrado faixa configurada para o valor 12613000. No Processo: Liberação de Valor a Pagar.;20/06/2025 17:34;Pausado;15857,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-631256;Configurador de Aprovação - Atenção O valor informado é maior que o valor máximo permitido: 9.999.999,99;20/06/2025 17:47;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-637309;"Ordenar por ordem alfabética o relatório ""Saldo de Controle de Documento""";09/07/2025 16:30;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-634342;Criar automatização para ao gerar Boleto de Pedido que gera Financeiro (Quando Tipo Cobrança = Boleto Bancário - Bradesco);01/07/2025 15:39;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-633372;Ter pessoas permitidas no processo de aprovação alteração de encargos;27/06/2025 15:17;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-633376;Criar histórico de aprovação de título - Onde apareça a justificativa do porque da solicitação que o usuário está fazendo (usuário solicitante);27/06/2025 15:40;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-633394;Cálculo de Juros p/ Recebimento de cheque (Calcular Juros p/ a data do vencimento do Cheque);27/06/2025 15:44;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-637603;"Relatório ""Ficha do Produtor Visão Cliente"" não contempla encargos financeiros.";10/07/2025 13:59;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-639658;Contas a Receber - Boleto não registrado no banco devido à ausência de remessa.;16/07/2025 16:35;Pausado;14186,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-639675;Consulta de Aprovação - Ausência de Informações em Consulta de Aprovação.;16/07/2025 16:58;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-641555;"Contas a Pagar - Inclusão da coluna de ""Data Programada Pagamento"".";22/07/2025 16:10;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-641631;Consulta de Aprovação - Aviso: Não implementado relatório para esta consulta.;22/07/2025 17:42;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-617917;Gerenciador NFe -  Tratar retorno: Aviso: Falha na comunicação com Hendow.;12/05/2025 15:48;Pausado;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-585798;Gerenciador NFe - Atenção Nota não pode ser cancelada pois pedido de venda 996 de nota origem já foi faturado na nota: 527 filial: 04-CONTENDA. Verifique!;06/02/2025 08:09;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-605348;Movimentação Agrícola por Pessoa - Saldo duplicado de produtor;01/04/2025 13:43;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-599504;Permitir informar o mesmo CNPJ para mais de um local;15/03/2025 08:39;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-601321;Tratamento Proporção do Ato Cooperado Quando Saldo Negativo - Separação pela Entrada e Contabilização;20/03/2025 10:19;Aguardando;15573,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-607060;Romaneio - Faturamento de Entrada, ao cancelar o status do romaneio não volta para encerrado.;05/04/2025 14:39;Aguardando;18213,00;;Adequação;SIMER | VERTICAIS | PRODUTO
-608216;Faturamento de Entrada - Criar fluxo para aprovar devoluções.;09/04/2025 11:12;Aguardando;13457,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-608288;Preço Alvo - melhorar a tela para que esteja visivel ao usuário a filial vinculada na configuração.;09/04/2025 12:00;Pausado;;Financeiro;Adequação;SIMER | INSUMOS | PRODUTO
-609054;Ordem de carregamento - Melhorias.;10/04/2025 20:15;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-609703;Faturamento de Saída - Emissão quando existe Boleto e MDFe.;14/04/2025 10:15;Pausado;;Indústria;Adequação;SIMER | INSUMOS | PRODUTO
-581350;Formação do Preço de Venda - Apresentar código do produto na listagem.;24/01/2025 13:29;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-616107;Ticket 514315 Matriz de Comissao - adequar conforme critérios do anexo.;06/05/2025 17:01;Aguardando;13860,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-616133;13301 [Ordem de Carregamento] Não obrigar informar lote ao criar a ordem;06/05/2025 17:33;Aguardando;12883,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-619315;Compra - Importação direta exterior;15/05/2025 09:59;Novo;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-638985;Contratos de Compra e Venda - obrigatório o preenchimento da programação financeira;15/07/2025 10:46;Pausado;;Financeiro;Adequação;SIMER | VERTICAIS | PRODUTO
-641395;Reversão de Fixação - melhorar a mensagem quando existe acerto de conta vinculado que deve ser extornado;22/07/2025 11:44;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-634207;Faturamento de entrada - Erro: Algo deu errado ao exibir está página da web.;01/07/2025 11:59;Pausado;12214,00;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-617010;Relatório - Extrato Movimentação Estoque -  item Pessoa;08/05/2025 17:11;Pausado;;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-633077;Importação NF-e de Terceiros - Erro: Ocorreu um problema ao comunicar com o servidor(Code 500);27/06/2025 07:58;Pausado;15980,00;Insumos;Adequação;SIMER | BACKOFFICE | PRODUTO
-612158;Lançamentos Contábeis  transferencia entre conta financeira  aparecendo e lotes em aberto;23/04/2025 11:39;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-592521;Faturamento de Saída- Tratar para notas de devolução de compra de grãos gerar corretamente as retenções que ocorreram na origem;24/02/2025 10:25;Aguardando;;Grãos;Adequação;SIMER | LEGAL | PRODUTO
-621109;Limite de Crédito - Status:  Com Falha - Não Iniciado.;21/05/2025 09:10;Aguardando;15589,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-626297;Importação NFe de Terceiros - Ocorreu um problema ao comunicar com o servidor O servidor retornou que não conseguiu responder a solicitação (code 500);05/06/2025 10:10;Pausado;14819,00;;Adequação;SIMER | BACKOFFICE | PRODUTO
-585401;Configurador de Aprovação - Ajuste de Contas com Encargos Não Está Salvando.;05/02/2025 10:12;Aguardando;18237,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-632146;Central do Associado - Alteração de Matrícula;24/06/2025 17:19;Pausado;;Financeiro;Adequação;SIMER | VERTICAIS | PRODUTO
-618189;Contas a Pagar - Filtrando uma carteira financeira com títulos  fica aguardando e não traz os movimentos pra tela.;12/05/2025 18:04;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-613945;P02 - Layout de Impressão CKEditor 4.22.1 (Standard) Task [13544];29/04/2025 10:13;Pausado;13544,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-616377;Entrada de Grão Destinado a Semente - Opção de rateio por ordem cronológica.;07/05/2025 13:59;Pausado;;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-616575;Contas a Receber - Ao Sustar Protesto com Manutenção em Carteira gera mensagem de inconsistência.;07/05/2025 16:36;Pausado;14652,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-585814;Fábrica de Ração - Faturar Quantidade Maior que o Pedido de Venda;06/02/2025 08:45;Aguardando;20975,00;Indústria;Adequação;SIMER | INSUMOS | PRODUTO
-587806;Sair nos dados adicionais do danfe da nota fiscal de quebra - dados referentes a transferencia que originou a quebra;11/02/2025 14:56;Pausado;;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-588158;Sair nos dados adicionais do danfe da nota fiscal de Deposito da Commoditie p/ Semente - Campo de Semente, Cultivar / Categoria;12/02/2025 08:55;Pausado;11266,00;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-589775;Balancete - Insegurança nas Informações Apresentadas no Balancete.;17/02/2025 08:32;Pausado;8190,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-589082;Relatório de Conciliação de Estoque Próprio Não Apresenta Todas as Movimentações da Contabilidade.;13/02/2025 15:53;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-591554;Importação NFe de Terceiros - Evolução na busca de documentos emitidos contra o CNPJ da cooperativa;20/02/2025 11:41;Aguardando;11658,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-611099;Rateio do Ato Cooperado alterando saldo inicial do balancete de períodos anteriores;17/04/2025 08:50;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-607321;Receita Eventual - Erro: O corpo da requisição está inválido, verifique a sintaxe.;07/04/2025 13:59;Aguardando;8450,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-604722;Ticket de Pesagem - Imprimir Descontos de Classificação no Ticket de Pesagem Na Ordem de Lançamento da Classificação.;31/03/2025 11:50;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-604270;Relatório - Saldo Agrícola Por Cliente - Apresentar Totalizador Geral;28/03/2025 12:03;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-612928;Contrato de Compra - Apresentando Saldo Incoerente.;25/04/2025 08:48;Aguardando;13341,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-611027;Gerenciador de NFe - Ação Para Notas Rejeitadas, Denegadas, Sem Status;16/04/2025 17:22;Aguardando;16223,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-612739;Faturamento de Entrada - Realizar Devolução Automática Quando Quantidade da Nota For Maior Que a Quantidade do Romaneio;24/04/2025 15:29;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-598323;Ficha do Produtor Visão Cliente - Qtd Bxd Trazendo Saldo Bloqueado.;12/03/2025 16:01;Aguardando;15536,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-588748;Listagem de Romaneios - Apresentar Resumo de Entradas Por Genética;13/02/2025 09:11;Pausado;14280,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-586375;Transferência de Grãos Entre Filiais - Quando Houver Emissão de Nota Fiscal de Quebra, Apresentar Nota em Tela;07/02/2025 09:09;Pausado;14279,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-619147;Faturamento de Saída - Lançamentos Contábeis Não Estão Corretos;14/05/2025 17:19;Aguardando;18214,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-616630;Processamento de Taxas Agrícolas - Permitir Seletor Múltiplo Para os Campos Produto Agrícola, Pessoa e Local;07/05/2025 18:03;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-632204;Consultas de Pagamentos Bancários - Na grid principal deve ser incluída a coluna borderô de pagamento, trazendo o número do borderô que gerou o pagamento bancário caso existir.;25/06/2025 08:34;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-606370;"Melhoria da tela de ""Central de Aprovação"" no processo de ""Limite de Desconto Excedido no Pedido de Venda""";03/04/2025 13:55;Novo;13219,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-610574;Rastreabilidade Financeira - Filtro por grupo familiar;15/04/2025 18:19;Aguardando;18794,00;;Adequação;SIMER | BACKOFFICE | PRODUTO
-626899;Fase 02 continuação Ticket 613944 -  Programação de Pagamento - centralizar em uma única tela;06/06/2025 14:45;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-634888;Faturamento de Saída - Bloqueio de emissão de notas com operação interna de transferência x conta de estoque;02/07/2025 15:25;Pausado;;Contabilidade;Adequação;SIMER | INSUMOS | PRODUTO
-640511;Contrato de Venda - Atenção Liquidação foi gerada pela Nota Fiscal de Expedição. A liquidação só poderá ser cancelada pelo processo de origem.;18/07/2025 13:56;Aguardando;18114,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-641059;"Extrato de Contrato de Venda - Devoluções somam com movimentos de cumprimento de contrato no quando ""liquidação"".";21/07/2025 16:26;Aguardando;12408,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-589448;Nota Fiscal - Inclusão na descrição dos produtos na Nota Fiscal.;14/02/2025 11:47;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-610804;Pedido de Venda - Atenção: Pedido de Venda sem Contrato Vinculado.;16/04/2025 11:49;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-612869;Importacao NFe de Terceiros - Incidente na consulta! Status: 656. Motivo: Rejeição: Consumo Indevido (Ultrapassou o limite de 20 consultas por hora);24/04/2025 17:45;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-603832;Faturamento de Entrada - Não Listam Usuário Emissões de Algumas Notas Fiscais.;27/03/2025 11:41;Pausado;14378,00;Insumos;Adequação;SIMER | VERTICAIS | PRODUTO
-604375;Importação de CTe - Erro: Ocorreu um problema ao comunicar com o servidor  O servidor retornou que não conseguiu responder a solicitação (code 500);28/03/2025 15:39;Pausado;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-600414;Preço por Produto - Erro: 20300http://wiki.siagri.com.br/errors/20300Tempomáximodeprocessamentoexcedido;18/03/2025 14:19;Aguardando;15550,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-604772;"Erro <20300> na Emissão do Relatório ""Listagem de Romaneios""";31/03/2025 13:46;Aguardando;15556,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-582999;Faturamento de Saída - Já existe um registro na base de dados para a chave campo itemDocFatProduto com o valor id;29/01/2025 14:34;Aguardando;15546,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-594603;Bloqueio do Movimento Fiscal - Não atualiza o registro com o usuário que fez a última alteração no bloqueio;28/02/2025 10:50;Aguardando;8450,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-594995;Apuração Pis Cofins - Tratativa de notas fiscais de serviço na Apuração de PIS/COFINS;03/03/2025 10:08;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-639780;Clover CRM - Bloqueio de Atualização de Campos de Área do Simer para o Clover CRM.;17/07/2025 09:01;Pausado;;CRM;Adequação;DIOGO ROCHA FERREIRA DE MENEZES
-610726;Remessa Boleto - Erro: 0301 Boleto não está registrado. Para resolver este problema, contate o beneficiário do boleto. (G999-301);16/04/2025 10:28;Pausado;14186,00;Financeiro;Adequação;ALINE MARTINS PREGO
-608862;Excluir todos os movimentos do bem imobilizado no ato da Baixa;10/04/2025 14:43;Aguardando;"15366; 14310";Contabilidade;Adequação;LEONALDO LINO JUNIOR
-606242;[Bom Jesus] Solicitação para minimizar erros (cadastro de usuário);03/04/2025 10:24;Pausado;;CRM;Adequação;JANE RAQUEL DOS REIS
-606256;[Bom Jesus] Recomendação - Registros agrícolas.;03/04/2025 10:34;Pausado;;CRM;Adequação;JANE RAQUEL DOS REIS
-585312;Criar bloqueio de faturamento pedidos aprovados no aspecto preço e limite credito.;05/02/2025 09:16;Pausado;;Financeiro;Adequação;MARHANY SEQUINEL
-589198;[Bom Jesus] Pedido de Venda - Campanha de Oferta sem Desconto Comercial;13/02/2025 17:58;Pausado;;CRM;Adequação;ROBERTO ALENCAR
-586816;Clover CRM - Ajustes na Integração de Preço Alvo entre ERP SIMER e Clover.;07/02/2025 18:12;Pausado;;Insumos;Adequação;ROBERTO ALENCAR
-707815;Borderô de Pagamento - Pagamentos gerados em um dia e pagos no outro, estão sendo acertados no dia da geração.;06/01/2026 18:05;Aguardando;20137,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-693034;Borderô de Pagamento - Cancelamento do pagamento após ser cancelado no banco.;28/11/2025 18:02;Aguardando;21603,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-666117;Contas a Receber - Erro: Ocorreram erros na alteração de um ou mais boletos.;23/09/2025 14:10;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-657822;importação de NFe de Terceiros -  Alteração de CST de ICMS;03/09/2025 09:16;Aguardando;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-658107;Lançamento contábil - Divergência entre razão e balancete;03/09/2025 14:24;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-658751;Incorporação de ST ao custo do produto.;04/09/2025 14:41;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-660947;Balancete de Verificação - Não obedece o filtro de natureza da conta;10/09/2025 10:04;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-641885;Apuração PIS/COFINS - Apropriação de Crédito de PIS/COFINS sobre obra em andamento;23/07/2025 10:59;Aguardando;20193,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-644531;Gerenciador NFe - Exportação de XML por período Muito Grande;30/07/2025 11:19;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-646901;Relatório Contas a Pagar e a Receber - Filtro conta contábil.;06/08/2025 08:21;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-684185;Apuração Pis/Cofins - Lançamento de Ajuste a Crédito Manual;05/11/2025 13:54;Aguardando;20191,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-708717;Distribuição de Sobras;08/01/2026 09:30;Aguardando;21259,00;Contabilidade;Adequação;SIMER | VERTICAIS | PRODUTO
-713320;Cotação de Venda - Solicitação de Melhorias | Formatação de números/valor para valor contábil;16/01/2026 16:41;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-691574;Layout de Impressão - Ajustes nas margens/bordas;26/11/2025 08:58;Pausado;;Financeiro;Adequação;SIMER | VERTICAIS | PRODUTO
-693373;Importação de Cte - Corrigir filtro de seleção para a digitação/seleção do documento;01/12/2025 14:37;Pausado;;Transporte;Adequação;SIMER | LEGAL | PRODUTO
-692487;Central de Aprovação - Solicitação de melhoria;27/11/2025 16:34;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-647418;Faturamento de Entrada - Aviso: Saldo Financeiro do Saldo de Controle de Nota Fiscal não pode ser menor que zero para pessoas físicas ou equiparadas à produtor rural. Saldo Financeiro: -297.59. Nota: 2250, item FIBRA CONCENTRADO ALTO GRAO 38% PEL - GRANEL.;07/08/2025 09:53;Pausado;16723,00;Financeiro;Adequação;SIMER | INSUMOS | PRODUTO
-645005;Pedido de Venda - Impressão do pedido de venda deverá apresentar saldo corretamente após baixa de algum item;31/07/2025 11:04;Pausado;20644,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-643838;Solicitação de Transferência - Não permiti excluir item e nem zerar a quantidade de produto;29/07/2025 08:53;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-644050;Importação NF-e de Terceiros - Apresenta msg: Atenção Não foi possível processar pois o Hendow retornou o resumo do XML.;29/07/2025 11:55;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-648561;Central de Pedidos de Venda - Sistema está considerando pedidos de venda com status de CANCELADO, no somatório do A FATURAR.;11/08/2025 14:18;Pausado;16711,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-653174;Envio código externo do local da pessoa para o AgriQ;25/08/2025 10:04;Aguardando;17798,00;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-657932;Lançamento de NF de Terceiro Rateio de Despesa por Conta Contábil.;03/09/2025 10:38;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-653937;Faturamento de saída - Sistema informar/indicar/barrar faturamento caso local seja diferente do local da receita agronômica emitida;26/08/2025 16:32;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-666437;Faturamento de Saída - Formatação do texto (pontuação ponto e vírgula) na DESCRIÇÃO DOS PRODUTOS / SERVIÇOS está fora do padrão da língua portuguesa;24/09/2025 09:58;Pausado;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-667032;Não permitir salvar pedido de venda com produto defensivo AgriQ sem apresentar o campo do Responsável Técnico informado;25/09/2025 10:32;Aguardando;18501,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-670059;Solicitação de Receituário Agronômico - Solicitação de melhoria;02/10/2025 11:51;Pausado;;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-675602;Faturamento de Saída - Apresenta msg: NÚMERO 12313 NFE/2 SAÍDA: LANÇAMENTO CONTÁBEIS NÃO ESTÃO CORRETOS, EXISTE DIFERENÇA DE: -0,72 CMV 4180,57 VALOR BRUTO 4181,29 D;15/10/2025 15:32;Pausado;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-675616;Central de Pedido de Venda - Solicitação de melhoria (Sistema gerar o registro de histórico de aprovação de substituição e a baixa do pedido de venda e por produto);15/10/2025 15:41;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-678045;Configurador de Aprovação - Solicitação de melhoria para Baixa de Pedido pela Central de Pedidos de Venda acrescentando o controle por filial e papeis de aprovação;21/10/2025 16:29;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-697261;Demora no processamento da apuração ICMS 11/12;09/12/2025 15:49;Aguardando;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-697468;Inconsistência Identificada no SPED – Competência 11/25 -  *Arquivos enviados*;10/12/2025 09:01;Pausado;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-710616;Considerar Frete Tonelada do Pedido de Venda no Limite de Crédito;12/01/2026 17:40;Aguardando;20450,00;Financeiro;Adequação;SIMER | INSUMOS | PRODUTO
-699060;"Inclusão de campo ""Limite Total"" na tela de ""Central de Aprovação""";12/12/2025 16:36;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-687939;[Homologação 7.15] - Configurador de Adiantamento - Erro ao tentar salvar configuração;14/11/2025 09:04;Pausado;19201,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-673193;Configurador de Integração Plug Boleto – Não permite ter dois configuradores para filiais distintas;09/10/2025 16:39;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-673250;Inconsistência de Status de Boletos;09/10/2025 18:01;Produto | Desenvolvimento;18274,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-679154;Bloqueio de alteração manual da Carteira Financeira e Operação Interna nas rotinas de Receita Eventual e Lançamento de Despesas;23/10/2025 15:15;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-677150;Erro na Emissão e Baixa de Boletos – Mensagem “Unexpected character ('<')”;20/10/2025 14:52;Aguardando;18578,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-666636;"Inclusão de ""Campo"" em algumas telas de ""Tipo de Renegociação""";24/09/2025 15:53;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-666776;Alteração de apresentação dos dados de juros e multa;24/09/2025 17:04;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-664879;Erro na soma dos títulos apresentados na tela de Contas a Pagar.;19/09/2025 11:03;Pausado;17708,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-666046;Aviso:  Pedido(s) já movimentado(s), não será possível cancelar o adiantamento. Pedido(s): 347.;23/09/2025 12:00;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-642634;"Inclusão de Coluna de Usuário em ""Personalizar"" na tela de ""Lançamento de Despesas""";24/07/2025 16:33;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-663304;"HOMOLOGAÇÃO 7.14 - Erro - Não está trazendo as notas de devolução de mercadoria dos Contrato ""338"".";16/09/2025 12:01;Pausado;21668,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-661801;HOMOLOGAÇÃO 7.14 - Receita Eventual não grava observações;11/09/2025 18:08;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-658495;Contas a Receber - Erro: Ocorreram erros na alteração de um ou mais boletos.;04/09/2025 10:02;Pausado;17607,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-658519;Configurador de Integração Plug Boleto – Edição de Convênio;04/09/2025 10:37;Pausado;17327,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-642321;Contas a Pagar e a Receber - Demonstração de Provisões no relatório.;24/07/2025 10:17;Pausado;14065,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-692873;NF-e de devolucao com valor total superior a NF-e devolvida. [VNF informado: 18080.20, VNF Referenciado: 15000.00] Falha no envio da Nota. Motivo: NF-e de devolucao com valor total superior a NF-e devolvida. [VNF informado: 18080.20, VNF Referenciado: 15000.00]. Status: 545;28/11/2025 14:23;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-692092;Romaneio - Lançamentos contábeis incorretos.;27/11/2025 07:57;Aguardando;20143,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-704689;Ordem de Produção - Apontamento Finalizado com Erro quando recebe item duplicado;29/12/2025 18:11;Novo;19863,00;Indústria;Adequação;SIMER | VERTICAIS | PRODUTO
-705095;Lançamento de Despesas por XML;30/12/2025 15:03;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-657164;Extrato da Conta Financeira - Analítico não exibe valor de cheques depositados.;02/09/2025 10:16;Pausado;17319,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-703253;Importação de CT-e – Otimização da Gestão de Seleções em Lote;23/12/2025 10:50;Aguardando;20564,00;Transporte;Adequação;SIMER | LEGAL | PRODUTO
-726404;Carteira Financeira em central de aprovação;18/02/2026 11:02;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-729556;Apuração de ICMS/IPI - Notas Fiscais de Fornecedores do Simples Nacional com aproveitamento de credito de icms;25/02/2026 11:26;Pausado;21464,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-734430;Sped Contribuições Mês Jan/2026 - Falta dos Registros 1300 e 1700 Referente ao imposto retido.;09/03/2026 10:49;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-726185;D100 Sped Fiscal - Campo Obrigatório Não Preenchido. Registro D100. Campo: 17 IND_FRT;17/02/2026 18:00;Novo;;Contabilidade;Adequação;SIMER | SUPRIMENTOS | PRODUTO
-696965;Balancete de verificação - Criar filtro para determinar se será apresentado ou não contas sem movimento.;09/12/2025 09:51;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-708547;Criar um configurador para determinar em qual campo será gravado a diferença entre a Base de Cálculo de ICMS e o Valor Contábil;07/01/2026 18:35;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-718819;Nota Fiscal de Crédito presumido e geração automática desse crédito na apuração;29/01/2026 18:19;Novo;21019,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-719224;Conta Contábil gravada no título não está respeitando o tipo de associado.;30/01/2026 16:20;Aguardando;21020,00;Financeiro;Adequação;SIMER | LEGAL | PRODUTO
-682927;Apuração de PIS COFINS - Manter em tela o registro que ainda esta sendo excluído;03/11/2025 09:32;Novo;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-684590;Cadastro Pessoa - Permite Salvar sem colocar informações quando categoria produtor rural;06/11/2025 10:06;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-680646;Balancete de Verificação Por conta auxiliar;28/10/2025 10:34;Pausado;;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-680702;Relatório Saldo de Estoque Físico/Próprio.;28/10/2025 11:29;Pausado;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-722259;Envio do vinculo de receita e nota fiscal automatico nao está funcionando;06/02/2026 15:34;Novo;;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-723846;Controle de assinatura para Contrato de Limite de Crédito;11/02/2026 09:55;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-688407;Ação de Reenvio Manual de Nota Fiscal para Receituário AgriQ;17/11/2025 08:52;Aguardando;19199,00;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-648317;Baixa do pedido com título sem encargos financeiros;11/08/2025 08:42;Aguardando;17616,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-653123;Central de Aprovação - criar fluxo que valide quantidade de dias do vencimento financeiro do pedido de venda;25/08/2025 08:47;Novo;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-678158;Recebimento de Adiantamento - criar parametro para bloquear a alteração de operação interna e carteira financeira;22/10/2025 06:55;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-730031;Limite de Credito - novo campo na central de aprovação;26/02/2026 09:47;Aguardando;21457,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-717444;Restrição de Venda - tratamento para simples remessa e titulo com manutenção de data de vencimento;27/01/2026 15:02;Pausado;;Financeiro;Adequação;SIMER | INSUMOS | PRODUTO
-691988;Criar parametro para bloquear a inclusão de novos limites de credito mesmo que o primeiro tenha vigencia encerrada.;26/11/2025 16:16;Novo;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-687098;Ação de remoção de itens não salva.;12/11/2025 13:41;Pausado;;T.I;Adequação;SIMER | INSUMOS | PRODUTO
-692078;HOMOLOGAÇÃO 7.15 - Renegociação de Contas a Receber;26/11/2025 19:16;Pausado;19432,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-719774;ERRO EM DADOS RELATÓRIO ANALÍTICO - CONTAS A PAGAR POR TIPO DE CONTRATO DE COMPRA;02/02/2026 15:08;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-706066;TELA PARA CONFERÊNCIA DE PAGAMENTOS - ROTINA PARA CONFERÊNCIA;03/01/2026 14:01;Pausado;;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-699017;Link Clicável na Observação da Cotação de Venda;12/12/2025 15:53;Aguardando;20273,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-681043;Relatorio Listagem de Romaneios - Inclusão de coluna de Tipo de Operação na Listagem de Romaneios.;28/10/2025 17:45;Pausado;;Contabilidade;Adequação;SIMER | VERTICAIS | PRODUTO
-725904;Prevenir Duplicidade de Solicitações de Receituário Enviadas ao AgriQ via Opção Reenviar;16/02/2026 17:52;Aguardando;21593,00;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-726069;Prevenir Duplicidade de Receitas Avulsas;17/02/2026 11:46;Aguardando;21610,00;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-653635;Permitir o Cancelamento de Receituário AgriQ Vinculado com Nota Fiscal Denegada;26/08/2025 09:01;Aguardando;21254,00;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-688182;Solicitação de receita duplicando no Agriq.;14/11/2025 15:41;Pausado;;Detec;Adequação;SIMER | INSUMOS | PRODUTO
-733063;Melhoria - Notificação de erro de captura de peso na tela de notificações;04/03/2026 17:11;Pausado;;T.I;Adequação;SIMER | VERTICAIS | PRODUTO
-714812;Liberação de rotinas para Arquivos ECD e ECF;21/01/2026 09:57;Aguardando;11822,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-710782;Nota do Produtor Apresentar no Livro Fiscal e Sped Fiscal;13/01/2026 09:58;Aguardando;21183,00;Contabilidade;Adequação;SIMER | VERTICAIS | PRODUTO
-694936;TROCA DE ITEM  - Feito pelo Faturamento saída x Faturamento entrada;03/12/2025 18:24;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-700502;COMPENSAÇÃO FINANCEIRA AUTOMÁTICA EM NOTAS DE DEVOLUÇÃO DE GRAOS;16/12/2025 18:01;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-710189;CANCELAMENTO DE CONTRATO BARTER - O Contrato não pode ser cancelado, pois possui vínculo com o Pedido de Venda: 5019;12/01/2026 10:31;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-705872;Nota de Fixação - Não Apresenta o Campo da Fatura/Duplicata na impressão do Danfe.;02/01/2026 15:57;Aguardando;20446,00;Grãos;Adequação;SIMER | LEGAL | PRODUTO
-705715;RELATÓRIO SALDO DE CONTRATO DE COMPRA - TRAZER VALOR TOTAL;02/01/2026 11:26;Pausado;15765,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-683568;Relatório Listagem de Romaneio - Inclusão de filtro para operação interna.;04/11/2025 10:21;Aguardando;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-732491;Solicitação de Melhoria – Permitir Partilha de Romaneio entre Pessoa Física e Pessoa Jurídica;03/03/2026 18:52;Aguardando;21596,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-696562;Controle de Royalties - Incluir na Integração Simer x Bayer, Tratativas Específicas para Integração do Recebimento e Fixação de Soja para Semente;08/12/2025 14:23;Novo;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-704420;Processamento de Taxas Agrícolas - Adequações Nas Filas e Processamento.;29/12/2025 13:47;Aguardando;18174,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-660314;Devoluções - Seguir Valor Unitário de Nota de Origem;09/09/2025 10:21;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-663288;Controle de Lote de Semente - Alterar Numeração de Termos de Conformidade Cadastrados.;16/09/2025 12:01;Aguardando;12540,00;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-655453;Contrato de Compra - Retirar Vírgula e Casas Após a Vírgula do Campo de Sacas dos Contratos de Compra.;29/08/2025 15:08;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-657190;Recepção de Cevada - Destinar Produto Recebido com Classificação Específica à Outro Código de Cadastro;02/09/2025 11:05;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-657254;Fixação - Permitir Inserir Preço Manualmente Para Determinado Produto e Filial;02/09/2025 11:28;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-652165;Desconto de Funrural - Permitir Descontar Funrural Quando Marcada Opção 'Produtor de Semente' no Cadastro de Pessoa.;21/08/2025 09:20;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-682183;Nota Fiscal do Produtor - Sistema Permitindo Lançamento da Mesma Nota Mais de Uma Vez.;30/10/2025 15:55;Aguardando;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-682555;Contrato de Venda - Faturamento de Saída - Nota de Complemento de Preço Não Baixando Saldo a Liquidar do Contrato;31/10/2025 12:24;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-677565;Adaptar Boletim de Análise de Sementes e Termo de Conformidade para a espécie de Feijão;21/10/2025 08:48;Produto | Desenvolvimento;12540,00;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-677609;Descarte de Sementes - Criar Facilitador Onde o Descarte é Por Quantidade e Não Romaneio a Romaneio.;21/10/2025 09:01;Produto | Desenvolvimento;;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-671180;Processamento de Taxas Agrícolas - Permitir Cancelamento de Vários Processamentos Simultaneamente;06/10/2025 11:30;Produto | Desenvolvimento;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-672342;Campo de Semente - Criar Gerenciador de Arquivos;08/10/2025 10:37;Aguardando;20878,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-667656;Adicional de Preço Agrícola Por Pessoa - Preencher Automaticamente Com a Data Atual o Campo de Data de Validade;26/09/2025 14:42;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-669640;Termo Aditivo - Layout de Impressão e Dados Impressos;01/10/2025 16:42;Produto | Desenvolvimento;;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-684870;Fila Ativa - Acesso do usuario.;06/11/2025 16:11;Pausado;19042,00;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-650373;Adicional Preço Agrícola por Pessoa - Data validade adicional preenchida automatico.;15/08/2025 11:59;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-651053;Contrato de Compra - obrigatoriedade de algumas informações.;18/08/2025 16:47;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-646108;Gerenciador NFe - Notas Sem Status.;04/08/2025 14:17;Aguardando;15576,00;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-659024;Ajustar Pedido de Venda com Itens Reprovados;05/09/2025 08:45;Aguardando;18359,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-705848;Faturamento Entrada : informacao campos 'Fatura/Duplicata' em branco;02/01/2026 15:11;Pausado;;Insumos;Adequação;SIMER | LEGAL | PRODUTO
-715728;Relatorio : Conciliacao Pedidos de Venda x Contabilidade;22/01/2026 16:51;Aguardando;;Contabilidade;Adequação;VISTRA BI | SERVIÇOS
-713940;Central de Pedido de Venda : Lentidão quando alterado o filtro dias da  'data inicio emissao';19/01/2026 16:43;Pausado;;T.I;Adequação;SIMER | INSUMOS | PRODUTO
-713992;Transferencia entre contas financeiras : opcao para impressao;19/01/2026 17:10;Pausado;;T.I;Adequação;SIMER | BACKOFFICE | PRODUTO
-693787;Descarte de beneficiamento : Sementes.;02/12/2025 10:40;Pausado;;Sementes;Adequação;SIMER | VERTICAIS | PRODUTO
-684285;Erro: Ocorreram os seguintes erros aos integra o documento com Hendow.;05/11/2025 15:26;Aguardando;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-692027;"Faturamento de entrada - Ao realizar um desfazimento apresenta a seguinte mensagem ""Não há saldo suficiente na origem para produto informado""";26/11/2025 18:18;Pausado;19404,00;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-723994;Ajuste de Casas Decimais na Tela de Aprovação de Cotação de Venda;11/02/2026 11:50;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-642360;"Listagem de Romaneios - Coluna ""Peso Líquido"" Apresenta Saldo Incorreto.";24/07/2025 10:29;Aguardando;15545,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-653156;Apuração CIAP - Inclusão das Exportações no Cálculo.;25/08/2025 10:20;Aguardando;18087,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-708522;Apuração ICMS- Divergência entre livro fiscal e apuração;07/01/2026 17:47;Aguardando;11601,00;Contabilidade;Adequação;SIMER | LEGAL | PRODUTO
-729743;Homologação de câmeras LPR;25/02/2026 15:40;Pausado;;T.I;Adequação;SIMER | VERTICAIS | PRODUTO
-691271;Central Pedido de Venda - Aviso: Já houve movimento para o item ATTILA GL do pedido gerado então não pode ser cancelado. Tipo Movimento: Faturamento;25/11/2025 14:07;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-686149;Dados do emitente do cheque não aparecem em algumas solicitações na central de aprovação.;11/11/2025 08:32;Pausado;19173,00;Financeiro;Adequação;SIMER | BACKOFFICE | PRODUTO
-731496;Cadastro de Produto - Abas bloqueadas para edição;02/03/2026 14:19;Pausado;;Contabilidade;Adequação;SIMER | BACKOFFICE | PRODUTO
-697964;CANCELAMENTO DE LANÇAMENTO DE NOTA DE FIXAÇÃO PJ;10/12/2025 17:32;Pausado;;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-686312;Inclusão do valor total do contrato e remoção das colunas “Funcional” e “Moeda” no relatório;11/11/2025 10:23;Aguardando;15765,00;Grãos;Adequação;SIMER | VERTICAIS | PRODUTO
-725950;Melhoria na Ordem de Carregamento: Exibição do Estoque Físico da Filial Atendente na Solicitação de Transferência;17/02/2026 08:05;Pausado;;Insumos;Adequação;SIMER | INSUMOS | PRODUTO
-704539;LOTE NÃO ENCONTRADO NA ROTINA FATURAMENTO DE SAIDA E ENTRADA;29/12/2025 15:35;Aguardando;21169,00;Contabilidade;Adequação;RENAN BRENO CARVALHO
-663401;Central de pedido de vendas - Apresenta campo de preenchimento obrigatório em tela de acompanhamento;16/09/2025 14:37;Aguardando;18282,00;;Adequação;RENAN BRENO CARVALHO
-722940;Problemas identificados ao realizar o processamento de taxas;09/02/2026 16:34;Aguardando;21070,00;Grãos;Adequação;RENAN BRENO CARVALHO
-689118;Ajuste no relatório de Depreciação de Imobilizado.;18/11/2025 13:44;Aguardando;;Contabilidade;Adequação;PEDRO HENRIQUE MENDES
-719850;Relatório de vendas de produtos com princípio ativo acefato;02/02/2026 16:30;Aguardando;;Detec;Adequação;PEDRO HENRIQUE MENDES
-686720;Relatorio que apresente receitas vinculadas com pedidos de venda com moviemnto de baixa e notas de devolução;11/11/2025 17:16;Aguardando;;Detec;Adequação;PEDRO HENRIQUE MENDES
-688829;Alterações indevidas em Perfil de Acesso e falha no log do sistema.;17/11/2025 18:08;Pausado;19255,00;T.I;Adequação;DANILO COSTA
-690625;HOMOLOGAÇÃO 7.15 - CONCILIAÇÃO BANCÁRIA - CRIAR RELATÓRIO COM OS DADOS DO EXTRATO BANCÁRIO;24/11/2025 11:45;Pausado;;Financeiro;Adequação;LUCAS DIAS REZENDE
-691055;Lançamento de compra consignado por XML;25/11/2025 09:25;Novo;;Contabilidade;Adequação;MARCELO ANDRE ENGELMANN
-660037;[API Clover] - Endpoint VinculoImobiliario - filtros;08/09/2025 15:24;Pausado;;CRM;Adequação;JANE RAQUEL DOS REIS
-674023;Permitir seleção de múltiplas escolhas no relatório de Potencial Plano Safra.;13/10/2025 09:15;Pausado;;T.I;Adequação;JANE RAQUEL DOS REIS
-684405;Inclusão dos campos 'Tipo de Ocorrência' e 'Ocorrência' no grade de lançamentos.;05/11/2025 17:30;Pausado;;CRM;Adequação;JANE RAQUEL DOS REIS
-686704;Evolução do relatório - Conciliação de Receituário Agronômico;11/11/2025 17:02;Aguardando;;Detec;Adequação;ADRIANO GRAMS
-735441;Analítico - Fixação de Produtos Royalties - Por Genética e Por Fixação de Produtos Royalties - Por Nome;10/03/2026 17:48;Aguardando;;Grãos;Adequação;ADRIANO GRAMS
-720634;Clover CRM - Central de Registros Agrícolas não aparecendo as atividades de Insumo Aplicado.;04/02/2026 08:20;Pausado;;T.I;Adequação;ROBERTO ALENCAR
-722899;Registros Agrícolas no cadastro de viagem;09/02/2026 15:54;Pausado;;CRM;Adequação;ROBERTO ALENCAR
-727227;Relatório: Potencial Plano Safra – Filial;19/02/2026 15:31;Aguardando;;CRM;Adequação;ROBERTO ALENCAR
-725101;Croqui de Área: Arquivos KML e SHP das propriedades;13/02/2026 10:02;Aguardando;;CRM;Adequação;ROBERTO ALENCAR
-732578;[BOM JESUS] Cotações de Produtos - Clover CRM;04/03/2026 09:03;Aguardando;;CRM;Adequação;ROBERTO ALENCAR
-732792;[BOM JESUS] Obrigatoriedade marca - Campanha de oferta de produtos;04/03/2026 12:04;Aguardando;;CRM;Adequação;ROBERTO ALENCAR
-733243;[BOM JESUS] Tabela de preço - Tipo de Desconto Padrão;05/03/2026 09:40;Aguardando;;CRM;Adequação;ROBERTO ALENCAR
-723743;Aprimoramento no Layout de Impressão da Pesagem para Apoio ao Processo de Classificação de Grãos;11/02/2026 08:46;Pausado;20989,00;T.I;Adequação;ANDERSON DA SILVA
-710135;Desenvolvimento de relatório – Controle de Transportadoras;12/01/2026 09:46;Aguardando;;Transporte;Adequação;BRENO DO CARMO SOUSA
-724085;Vistra BI - Ajustes Painel de Transferências;11/02/2026 14:29;Aguardando;;Vistra BI/Analitics;Adequação;BRENO DO CARMO SOUSA
-707729;Alinhamento sobre valores de vendas nos painéis Vistra BI;06/01/2026 16:37;Aguardando;;Vistra BI/Analitics;Adequação;BRENO DO CARMO SOUSA
-720096;Divergencia de valores painel Vistra - Fixação - BJ;03/02/2026 09:52;Aguardando;;T.I;Adequação;BRENO DO CARMO SOUSA
-713670;"Inconsistencia nos dados do painel ""Recebimento Agricola - BJ""";19/01/2026 11:08;Aguardando;;Grãos;Adequação;BRENO DO CARMO SOUSA
-679877;Criação de um Relatório de Cartões Financeiro.;27/10/2025 08:46;Aguardando;;Vistra BI/Analitics;Adequação;BRENO DO CARMO SOUSA
-722036;Deixar como habilitado todas as series dos graficos dos paineis.;06/02/2026 10:19;Aguardando;;T.I;Adequação;BRENO DO CARMO SOUSA
-697619;CRIAÇÃO DE PAINEL DE CENTRAL TELEFÔNICA;10/12/2025 10:50;Aguardando;;T.I;Adequação;BRENO DO CARMO SOUSA
-686879;Report - Conciliação Pedidos de Venda x Contabilidade;12/11/2025 09:24;Aguardando;;Contabilidade;Adequação;BRENO DO CARMO SOUSA
-655303;Criação de uma Painel de Despesa;29/08/2025 10:52;Aguardando;;Contabilidade;Adequação;BRENO DO CARMO SOUSA
-692045;Relatorio:  Analise Movimentacao de Produtores por Periodo;26/11/2025 17:26;Aguardando;;Financeiro;Adequação;BRENO DO CARMO SOUSA
-656021;Painel PA03002 - Painel de conta a pagar Diario - BJ;01/09/2025 09:32;Aguardando;;Financeiro;Adequação;BRENO DO CARMO SOUSA
-736297;Melhoria - Importação NFe de Terceiros: criar um campo de observações na aba financeira.;12/03/2026 11:01;Em Andamento;;Administrativo/Almoxarifado;Adequação;ALAN KARDEK DA SILVA BARROS NETO
-732323;Painel de Distribuição de Sobras base HOMOLOGAÇÂO;03/03/2026 15:46;Aguardando;21421,00;Contabilidade;Adequação;ALAN KARDEK DA SILVA BARROS NETO
+Nï¿½mero;Assunto;Aberto em;Status;Nï¿½mero Task;Departamento.;Categoria;Responsï¿½vel
+242446;Contas Contï¿½beis - Configurar a  requisiï¿½ï¿½o ao relacionar as contas contï¿½beis.;22/09/2023 10:39;Aguardando;15595,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+245530;Editar nota fiscal de entrada sem necessidade de excluir a mesma e refazer o lanï¿½amento;03/10/2023 09:36;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+245622;Na seleï¿½ï¿½o do pedido de venda no faturamento de saida mostrar a operacao do pedido pra facilitar a identificaï¿½ï¿½o;03/10/2023 11:23;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+245847;Conhecimento de Transporte - Rateio de Centro de Custo.;03/10/2023 17:03;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+245861;Requisiï¿½ï¿½o de Materiais - Apontamento da contabilizaï¿½ï¿½o por conta de estoque;03/10/2023 17:16;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+254963;CND DA EMPRESA , DO PRODUTO E VALIDADE DO CADASTRO DO INDEIA;06/11/2023 10:37;Aguardando;;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+269335;Implantaï¿½ï¿½o de Saldo Inicial Crï¿½dito de ICMS;02/01/2024 14:39;Novo;;;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+254975;IMPORTAï¿½ï¿½O DE DADOS DA SEFAZ CPF E CNPJ DO CARTï¿½O CNPJ OU SINTEGRA;06/11/2023 10:53;Novo;;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+255174;INDEXADOR - TER 03 COTAï¿½ï¿½ES DE COTAï¿½ï¿½ES DO MESMO DIA;06/11/2023 16:38;Novo;;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+255268;PEDIDO DE COMPRA PARA SERVIï¿½OS;07/11/2023 08:23;Novo;;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+261818;Criar Modulo Financiamentos;01/12/2023 11:44;Pausado;2580,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+264542;Configurador do Faturamento de Entrada nï¿½o permite salvar a inclusï¿½o de uma nova operaï¿½ï¿½o interna.;11/12/2023 17:48;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+259266;"implementaï¿½ï¿½o de ""Histï¿½rico de Atividade"" para  o Contas a Pagar";22/11/2023 11:19;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+259648;"Romaneio de saï¿½da - Precificaï¿½ï¿½o por operaï¿½ï¿½o nï¿½o considera o tipo de valor ""Tabela de preï¿½o"" .";23/11/2023 13:51;Aguardando;15527,00;Grï¿½os;Adequaï¿½ï¿½o;ARIANE DOS SANTOS PEDROSO
+294569;Permitir editar a data de emissï¿½o do contrato de compra;28/03/2024 09:24;Aguardando;14268,00;;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+302199;Fixaï¿½ï¿½o - Adicional agrï¿½cola por pessoa nï¿½o estï¿½ respeitando o prazo de pagamento do adicional.;26/04/2024 10:47;Aguardando;8549,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+503211;Nota Fiscal - Key User em informaï¿½ï¿½es complementares;10/05/2024 08:31;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+504941;Importaï¿½ï¿½o de CTe - Personalizar Grid;16/05/2024 14:21;Novo;;Transporte;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+300103;Faturamento de Saï¿½da - Flag Saldo Fï¿½sico no Faturamento de Venda Seleï¿½ï¿½o Pedido;18/04/2024 14:02;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+300365;Solicitaï¿½ï¿½o de Receituï¿½rio Agronï¿½mico - Personalizar Grid;19/04/2024 10:16;Novo;;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+301039;Pessoa - cadastro tipo motorista criar aviso vencimento da CNH;23/04/2024 09:05;Novo;;Transporte;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+301445;Configurador Pedido de Venda;24/04/2024 10:00;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+505977;"Configurador do Faturamento de entrada - Permite faturamento sem pedido estï¿½ como ""sim"" , permite faturamento sem Romaneio estï¿½ como ""nï¿½o"".";21/05/2024 11:59;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+503271;Captura Umidade na Classificaï¿½ï¿½o - MOTOMCO Modelo: 999 ESI;10/05/2024 09:56;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+502930;Definiï¿½ï¿½o de Carteira Financeira do Pedido de Venda;09/05/2024 10:16;Aguardando;14929,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+273854;Tabela para apontamento de medidas para romaneio de Lenha;17/01/2024 17:45;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+286235;Incluir o nome do usuï¿½rio na impressï¿½o do romaneio;29/02/2024 10:08;Aguardando;10015,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+277270;Romaneio - Ocorreu um erro interno no sistema. Tente novamente e caso o problema persistir, entre em contato com o administrador do sistema.;30/01/2024 13:40;Aguardando;15530,00;Grï¿½os;Adequaï¿½ï¿½o;ARIANE DOS SANTOS PEDROSO
+275624;"Numeraï¿½ï¿½o de documentos - Falha grave no processo ""Transferï¿½ncia Entre Filiais de Grï¿½os""";24/01/2024 12:07;Aguardando;15533,00;Contabilidade;Adequaï¿½ï¿½o;MARCELO ANDRE ENGELMANN
+298186;Implantacao saldos de estoque;11/04/2024 13:28;Aguardando;15555,00;;Adequaï¿½ï¿½o;DANGELO DE NARDIN
+506010;Bom Jesus - Layout impressï¿½o da Danfe;21/05/2024 14:00;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+510496;Lanï¿½amento de Capital Subscrito - Observaï¿½ï¿½es financeiras no Titulo;07/06/2024 08:42;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+507038;Bom Jesus - Informaï¿½ï¿½es financeiras nas rotinas de recebimento de adiantamento e pagamento de adiantamento;24/05/2024 14:21;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+507041;Recebimento de Adiantamento  e Pagamento de adiantamento - Trazer como padrï¿½o o primeiro local da pessoa;24/05/2024 14:33;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+507045;Recebimento de Adiantamento  e Pagamento de adiantamento - Nï¿½o permitir trocar a carteira financeira;24/05/2024 14:39;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+507048;Adiantamento e Compensaï¿½ï¿½o Financeira Automï¿½tica do Pedido de Compra;24/05/2024 14:46;Aguardando;9392,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+507593;Perfil de Acesso - Permissï¿½es nï¿½o sï¿½o removidas;28/05/2024 08:42;Pausado;8286,00;T.I;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+507632;Configurador de aprovaï¿½ï¿½o - Permitir informar valor negativo na faixa de aprovaï¿½ï¿½o automï¿½tica;28/05/2024 09:46;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+511423;Nota Fiscal - Impressï¿½o de DATA DE FABRICAï¿½ï¿½O na nota fiscal para produtos que controla lote;11/06/2024 11:39;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+506726;Saldo de Estoque - Gerar relatï¿½rio para conferï¿½ncia / conferï¿½ncia cega e ou auditoria;23/05/2024 14:39;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+508091;Pedido de Compra - Melhorias;29/05/2024 14:26;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+509527;Pedido de Vendas - Mensagem Informativa;04/06/2024 17:05;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+515447;Conta de Estoque do Produto - Personalizar Grid;25/06/2024 11:47;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+513617;Emissï¿½o MDFe - Adequaï¿½ï¿½o do Layout;18/06/2024 17:26;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+514183;Manutenï¿½ï¿½o de Requisiï¿½ï¿½o de Material - Atenï¿½ï¿½o:  Evento [valor bruto] nï¿½o possui configuraï¿½ï¿½o contï¿½bil, pelo ato cooperado nï¿½o associado ou sem destinï¿½ï¿½o.;20/06/2024 10:32;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+514453;Manutenï¿½ï¿½o de Requisiï¿½ï¿½o de Material;21/06/2024 09:10;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+520381;Produto - Evoluï¿½ï¿½o no PERSONALISAR GRID;10/07/2024 10:07;Novo;;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+515265;Copia de cadastro da Safra com culturas vinculadas;25/06/2024 08:01;Pausado;;;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+516527;Bloquear Pedido de Venda para Faturamento;27/06/2024 17:50;Aguardando;9058,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+518791;Industria - Apuraï¿½ï¿½o do custo mensal para produï¿½ï¿½o propria;04/07/2024 15:50;Pausado;12318,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+519304;Cadastro de pessoa - consulta dados Sintegra;05/07/2024 19:09;Aguardando;;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+508907;Solicitaï¿½ï¿½o de Receita - Nï¿½o apresenta o motivo do erro no envio da solicitaï¿½ï¿½o de receita;03/06/2024 14:17;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+508912;Melhoria - no envio para aprovaï¿½ï¿½o validar se o local informado no pedido de venda possui propriedade rural quando existir itens defensivo agricola;03/06/2024 14:27;Pausado;8802,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+512106;Melhoria - Inativaï¿½ï¿½o de Matriz de campanha;13/06/2024 09:48;Pausado;8799,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+507644;Melhoria - Solicitaï¿½ï¿½o de Receituï¿½rio Agronomico;28/05/2024 10:01;Aguardando;8805,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+506209;Faturamento de saï¿½da - Nï¿½o apresentar mensagem referente a validaï¿½ï¿½o da programaï¿½ï¿½o de entrega do contrato quando se tratar de venda a ordem;22/05/2024 08:38;Aguardando;14269,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+509579;Saldo de Estoque Fï¿½sico ou Prï¿½prio - inconsistï¿½ncias no relatï¿½rio;04/06/2024 18:15;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+509764;"Filtro e Campo no ""Personalizar"" de Tipagem de Produto Agricola na Consulta ""Saldo de Estoque""";05/06/2024 11:57;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+507760;"Melhoria - Validaï¿½ï¿½o no Faturamento de Saida ""aba transporte""";28/05/2024 14:15;Pausado;8803,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+515650;Classificaï¿½ï¿½o - Nï¿½o Permitir Cadastrar Mais de Uma Classificaï¿½ï¿½o Para a Mesma Placa Sem Que a Primeira Esteja Vinculada.;25/06/2024 17:52;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+507719;"Melhoria - tempo de permanecia das mensagens de ""Atenï¿½ï¿½o"" para os usuï¿½rios.";28/05/2024 11:34;Pausado;8804,00;T.I;Adequaï¿½ï¿½o;CECILIA NAJA VANIN DO AMARAL TOCHETTO
+518289;Permitir fazer complemento de peso - contrato valor a fixar;03/07/2024 15:37;Aguardando;9467,00;;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+522853;Adiantamento vinculado ao contrato de venda com compensaï¿½ï¿½o de forma automï¿½tica;18/07/2024 09:13;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+522989;Contrato de Venda - Inserir campo para preenchimento do Numero do contrato do intermediï¿½rio (agenciador/corretagem) no contrato de Venda.;18/07/2024 12:01;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+523031;Bloqueio de Saldo Agrï¿½cola - Incluir Campo de Observaï¿½ï¿½o.;18/07/2024 14:27;Aguardando;14278,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+523221;"Produtos Agricolas que nï¿½o controlam Genetica(transgenia) setar ""Nï¿½o controla"" automaticamente";19/07/2024 08:29;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+560999;Nota de Fixaï¿½ï¿½o (Compra) sair nos dados adicionais o nï¿½ do contrato;13/11/2024 15:38;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+540388;Romaneio - O sistema estï¿½ Imprimindo Apenas a Nota de Remessa.;13/09/2024 10:15;Aguardando;14277,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+549516;Faturamento de Saï¿½da - Realizar Nota de Complemento Nï¿½o Busca Valor da Nota de Origem.;10/10/2024 11:00;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+577617;Extrato de Movimentaï¿½ï¿½o de  Controle de NF - Totalizador por Produto Incorreto.;14/01/2025 11:46;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+576079;Evoluï¿½ï¿½o - Liberaï¿½ï¿½o de data retroativa com vigï¿½ncia;08/01/2025 18:47;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+573359;Implantaï¿½ï¿½o de Venda para Devoluï¿½ï¿½o - Busca tributaï¿½ï¿½o da nota origem.;27/12/2024 16:36;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+571626;Emissï¿½o MD-e - Aviso: Nï¿½o deve ser selecionando notas de origens com veï¿½culos diferentes.;18/12/2024 18:04;Pausado;;Transporte;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+577511;Emissï¿½o MDFe - Personalizar Filtro com Inclusï¿½o de Placa de Veï¿½culo.;14/01/2025 09:54;Novo;;Transporte;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+574745;Mensagem de Disposiï¿½ï¿½o Final de Resï¿½duo e Embalagem - Seletor de Filiais.;06/01/2025 09:31;Pausado;;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+567697;Faturamento de Saï¿½da - Solicitaï¿½ï¿½o de melhorias nas informaï¿½ï¿½es complementares da nota fiscal;06/12/2024 09:12;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+569620;Lanï¿½amento de Despesa - Solicitaï¿½ï¿½o de melhoria personalizar grid;12/12/2024 09:45;Pausado;;Transporte;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+569634;Lanï¿½amento de despesa - Solicitaï¿½ï¿½o de Melhoria no lanï¿½amento do rateio do imobilizado;12/12/2024 10:06;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+577851;Faturamento de Saï¿½da - Sistema nï¿½o permite faturar pedido parcial com receitas emitidas e com status de finalizada.;14/01/2025 20:49;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+580068;Requisiï¿½ï¿½o de Material - Solicitaï¿½ï¿½o de Melhoria relatï¿½rios;21/01/2025 16:20;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+553330;Pedido de venda - Sistema deverï¿½ BLOQUEAR produtos do tipo IMOBILIZADO e ALMOXARIFADO na seleï¿½ï¿½o de produto no pedido;22/10/2024 10:01;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+561267;Pedido de Venda - Transporte Prï¿½prio por Conta do Destinatï¿½rio.;14/11/2024 11:16;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+556891;Requisiï¿½ï¿½o de Material - Melhoria na seletor de ALMOXARIFADO ATENDENTE;31/10/2024 17:13;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+528140;Tabela de preï¿½o - Solicitaï¿½ï¿½o de melhorias;06/08/2024 16:05;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+530141;Pedido de Venda - Impressï¿½o Pedido de Venda > Informaï¿½ï¿½es;13/08/2024 13:52;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+530542;Central de Pedidos de Venda > Manutenï¿½ï¿½o > Substituiï¿½ï¿½o - Apresenta MSG cujo interpretaï¿½ï¿½o nï¿½o condiz com o pedido;14/08/2024 13:39;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+532784;Emissï¿½o MDFe - Solicitaï¿½ï¿½o de melhoria / filtro para selecionar notas fiscais;21/08/2024 11:49;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+532875;Extrato de Movimentaï¿½ï¿½o do Pedido de Compra - Adequaï¿½ï¿½o Filtro;21/08/2024 15:39;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+534361;Emissï¿½o MDFe - Solicitaï¿½ï¿½o de Melhorias na emissï¿½o;27/08/2024 09:32;Novo;;Transporte;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+537273;Pedido de venda - Aviso: Data de vencimento da ï¿½ltima parcela deve ser menor ou igual a data de validade.;04/09/2024 15:42;Aguardando;2147,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+549366;Central do Associado - Baixa Automï¿½tica de Saï¿½da de Sï¿½cio.;10/10/2024 08:27;Aguardando;21259,00;Financeiro;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+578321;Lanï¿½amento Despesas - Inclusï¿½o de opï¿½ï¿½o de avanï¿½ar e copiar os dados do lanï¿½amento anterior.;15/01/2025 17:09;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+578418;Liberaï¿½ï¿½o de valor a pagar -  aparecer essa opï¿½ï¿½o assim que finalizar lanï¿½amento que precisa de autoizaï¿½ï¿½o;16/01/2025 09:14;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+557175;Contrato de Compra - Ao adicionar um contrato de compra a partir de uma opï¿½ï¿½o de compra da empresa, carregar o campo quantidade vazio;01/11/2024 13:42;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+566695;Perfil de Acesso -  inconsistï¿½ncia no log de do perfil de acesso nas alteraï¿½ï¿½es com grande volume de dados/registros;03/12/2024 17:36;Pausado;11403,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+563204;Configurador de Faturamento de Entrada - Revisar regras de exceï¿½ï¿½es de operaï¿½ï¿½o interna quando a regra geral estiver marcadas como SIM;22/11/2024 14:30;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+570005;Inconsistï¿½ncia identificadas pela equipe do Vistra nas conferï¿½ncias;13/12/2024 08:38;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+570775;Implementar a impressï¿½o da Solicitaï¿½ï¿½o de Transferï¿½ncia conforme exemplo anexo;17/12/2024 08:17;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+575427;Programaï¿½ï¿½o de Embarque - Obrigar Informar Tipo de Frete;07/01/2025 15:01;Aguardando;12026,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+521288;Implantaï¿½ï¿½o de Saldo de Estoque - Nï¿½o esta excluindo o registro do Saldo.;12/07/2024 11:54;Aguardando;15534,00;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+579887;Sistema permitindo o registro de notas fiscais com chave de acesso de apenas 40 dï¿½gitos;21/01/2025 11:32;Aguardando;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+521923;Implementaï¿½ï¿½o de Adicional por Prazo de Pagamento em Valor.;16/07/2024 09:00;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+571858;Filtro com informaï¿½ï¿½es de quem fez a programaï¿½ï¿½o financeira;19/12/2024 13:37;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+573881;Contas a Pagar - Erro: Existem Carteiras Financeiras com Restriï¿½ï¿½o de Visualizaï¿½ï¿½o, desta forma alguns tï¿½tulos e outras informaï¿½ï¿½es poderï¿½o nï¿½o ser listadas.;02/01/2025 09:34;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+522444;Faturamento de Entrada- O Servidor retornou que nï¿½o conseguiu responder a solicitaï¿½ï¿½o. (code 500);17/07/2024 09:52;Pausado;8983,00;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+533391;Nï¿½meraï¿½ï¿½o do Lanï¿½amentos de Despesas;22/08/2024 17:31;Pausado;16154,00;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+575254;Ordem de Carregamento ï¿½ Itens Baixados Ainda Aparecendo no Faturamento.;07/01/2025 10:33;Aguardando;12281,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+579988;Adicionar Total da Ordem de Carregamento nas ordens por Solicitaï¿½ï¿½o;21/01/2025 14:51;Aguardando;17676,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+579663;RDM 12238 - Criar Logs no Webhook, para validar recebimentos do AgriQ;21/01/2025 08:03;Aguardando;15503,00;;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+566607;Melhoria Formaï¿½ï¿½o do Preï¿½o de Venda - incluir uma coluna que apresente o valor vigente na tabela selecionada;03/12/2024 16:26;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+524976;Tabela de preï¿½o produto - criar bloqueio de novas venda e consulta preï¿½o por filial;25/07/2024 14:02;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+547279;Formaï¿½ï¿½o de Preï¿½o - Apresenta erro 500.;04/10/2024 08:59;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+548847;Pedido de venda Barter Nï¿½o Aplica Desconto ao Valor.;09/10/2024 08:46;Aguardando;15538,00;;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+541765;Faturamento de Entrada - Quantidade Isenta de Royalty Nï¿½o Busca da Fixaï¿½ï¿½o;18/09/2024 09:08;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+549993;Classificaï¿½ï¿½o - Incluir Mais de Uma Tipagem aos ï¿½ndices de Desconto;11/10/2024 12:04;Aguardando;15066,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | GRï¿½OS | PRODUTO
+537192;Pesagem - Nï¿½o Foi Encontrado CFOP Para Operaï¿½ï¿½o Interna Pesagem Avulsa (S);04/09/2024 14:42;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+571465;Listagem de Romaneios - Descontos Nï¿½o exibidos no Relatï¿½rio Nï¿½o Sï¿½o Considerados Para Cï¿½lculo de Peso Lï¿½quido;18/12/2024 14:23;Aguardando;15545,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+578949;Faturamento de saï¿½da com mï¿½ltiplos pedidos ao solicitar receituï¿½rio o qual apenas um pedido tem quï¿½mico nï¿½o localiza.;17/01/2025 10:30;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+558695;Apropriaï¿½ï¿½o - Alerta ou processo automatizado da contabilizaï¿½ï¿½o da apropriaï¿½ï¿½o;06/11/2024 16:06;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+555684;Ao gerar o balancete de verificaï¿½ï¿½o nï¿½o estï¿½ retornando dados.;29/10/2024 08:43;Aguardando;15694,00;;Adequaï¿½ï¿½o;WELLINGTON ALVES GOLD
+555791;Balancete de Verificaï¿½ï¿½o - O campo Filiais em Estrutura Organizacional ï¿½ obrigatï¿½rio e nï¿½o estï¿½ vindo preenchido com valor padrï¿½o;29/10/2024 10:21;Aguardando;15694,00;;Adequaï¿½ï¿½o;WELLINGTON ALVES GOLD
+537229;Controle de Aplicaï¿½ï¿½es (previsï¿½o de Rendimento, calculo do Imposto de Renda, Carï¿½ncia, controle de resgate), modelo de soluï¿½ï¿½o igual do cooperate;04/09/2024 14:57;Aguardando;9755,00;Financeiro;Adequaï¿½ï¿½o;ALINE MARTINS PREGO
+577674;Criar de regras de dependï¿½ncia ao estornar tï¿½tulo principal de adiantamento;14/01/2025 15:29;Aguardando;14388,00;Financeiro;Adequaï¿½ï¿½o;ALINE MARTINS PREGO
+535452;Tela Fixaï¿½ï¿½o para impressï¿½o de Danfe - Ajuste.;29/08/2024 15:42;Aguardando;15613,00;Grï¿½os;Adequaï¿½ï¿½o;ARIANE DOS SANTOS PEDROSO
+535745;Simer - criar mecanismo para realizar download dos arquivos de log;30/08/2024 11:46;Novo;;T.I;Adequaï¿½ï¿½o;CECILIA NAJA VANIN DO AMARAL TOCHETTO
+556857;Alterar a cor das barras de rolagem, horizontal e vertical, dos painï¿½is do Simer para melhorar a visibilidade;31/10/2024 16:17;Novo;;T.I;Adequaï¿½ï¿½o;CECILIA NAJA VANIN DO AMARAL TOCHETTO
+626885;Lanï¿½amento de Despesas - Permitindo lanï¿½ar a mesma nota.;06/06/2025 14:25;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+626554;Evoluï¿½ï¿½o no tratamento de estoque negativo e proporï¿½ï¿½o do ato cooperado em transferï¿½ncias entre filiais;05/06/2025 16:43;Aguardando;19539,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+627442;Apropriaï¿½ï¿½o PIS/COFINS - Imobilizado.;09/06/2025 15:23;Aguardando;20286,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+637451;balancete com a estrutura do plano de contas referencial da receita.;10/07/2025 09:46;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+636796;Impressï¿½o do Plano de Contas - Ter opï¿½ï¿½o para apresentar Conta Referencial (Evoluï¿½ï¿½o);08/07/2025 15:05;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+641848;Apuraï¿½ï¿½o PIS/COFINS - Valores referentes a apropriaï¿½ï¿½o de Imobilizado nï¿½o apresenta.;23/07/2025 10:22;Aguardando;20191,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+641877;Apuraï¿½ï¿½o PIS/COFINS - Nï¿½o levar crï¿½ditos referentes a devoluï¿½ï¿½o de vendas de associados;23/07/2025 10:42;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+626610;Gerenciador NF-e - O sistema nï¿½o disponibiliza uma consulta que permita, sem acesso ao banco de dados, identificar qual usuï¿½rio realizou o cancelamento de uma nota fiscal de saï¿½da.;05/06/2025 17:16;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+626618;Faturamento de entrada - Solicitaï¿½ï¿½o de Melhoria - Disponibilizar a Informaï¿½ï¿½o em Tela de Qual Usuï¿½rio Cancelou o Faturamento;05/06/2025 17:22;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+632066;Formaï¿½ï¿½o do Preï¿½o de Venda - permitir digitaï¿½ï¿½o valores atï¿½ cinco casas decimais;24/06/2025 16:00;Novo;;Indï¿½stria;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+632081;Tabela de Preï¿½o - Sistema nï¿½o estï¿½ carregando CONFIGURAï¿½ï¿½O quando usuï¿½rio faz alteraï¿½ï¿½o de preï¿½o via FORMAï¿½ï¿½O DE PREï¿½O DE VENDA;24/06/2025 16:16;Pausado;;Indï¿½stria;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+624176;Faturamento de Saï¿½da - Solicitaï¿½ï¿½o de melhoria no envio automï¿½tico do xml e pdf da NF;29/05/2025 17:42;Novo;;Transporte;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+615065;Faturamento de Saï¿½da - Ficha de Emergï¿½ncia Configuraï¿½ï¿½o para Ocultar Impressï¿½o das Bordas Coloridas.;02/05/2025 15:54;Pausado;;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+613835;Cotaï¿½ï¿½o de venda - Solicitaï¿½ï¿½o de melhorias BOM JESUS;29/04/2025 08:36;Aguardando;14375,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+591486;Produto - Criar TIPO DE PRODUTO > VEï¿½CULOS;20/02/2025 11:40;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+585873;"Pedido de Compra - Status ""BAIXADO""";06/02/2025 09:34;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+585001;Permitir a inserï¿½ï¿½o da quantidade de caracteres correspondente ï¿½s receitas emitidas pelo AgriQ;04/02/2025 14:01;Pausado;12627,00;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+585015;Saldo de Estoque - Sistema detalhar as solicitaï¿½ï¿½es de transferï¿½ncias.;04/02/2025 14:23;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+580150;Relatï¿½rio de Contagem de Estoque - Solicitaï¿½ï¿½o de Melhoria ordenar descriï¿½ï¿½o por ordem alfabï¿½tica;21/01/2025 17:01;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+580173;Pesagem Manual e Automï¿½tica - Solicitaï¿½ï¿½o de melhorias;21/01/2025 18:02;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+580544;Nfe - Solicitaï¿½ï¿½o de melhoria nas informaï¿½ï¿½es complementares;22/01/2025 16:20;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+581759;Perfil de acesso - Usuï¿½rio com permissï¿½o para editar PRODUTO todavia nï¿½o apresenta dados produto para ediï¿½ï¿½o;27/01/2025 10:22;Aguardando;15552,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+581059;Contas a pagar e a receber - Exclusï¿½o de salvar filtro.;23/01/2025 16:48;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+585173;Contas a Pagar - Aviso: Nï¿½o foi encontrado registro para apresentaï¿½ï¿½o.;04/02/2025 16:32;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+590460;Bloquear a cobranï¿½a bancaria pra alguns clientes(Associados que pagam na loja);18/02/2025 10:57;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+590502;Bloqueio de movimentaï¿½ï¿½o por Carteira financeira;18/02/2025 11:17;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+590543;Quando a fixaï¿½ï¿½o for por Recibo de Depï¿½sito, o financeiro enxergar essa informaï¿½ï¿½o no acerto de contas/relatï¿½rios  jï¿½ que o pagamento  nï¿½o serï¿½ para a pessoa da fixaï¿½ï¿½o, mais sim para a instituiï¿½ï¿½o financeira vinculado ao recibo de depï¿½sito.*;18/02/2025 12:01;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+590584;Agrupamento de CT-es a pagar (Transportora emite os cteï¿½s  e no final de um periodo, emite a fatura referente aos cteï¿½s pra gerar o financeiro)*;18/02/2025 13:42;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+590764;Integraï¿½ï¿½o Recebimento via PIX;18/02/2025 17:09;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+617280;Melhoria apuraï¿½ï¿½o ICMS - Automatizaï¿½ï¿½o de Lanï¿½amentos de Notas de Transferï¿½ncia.;09/05/2025 11:32;Aguardando;16307,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+580387;Comunicaï¿½ï¿½o Simer e Agriq - Receita e Pedido Venda;22/01/2025 11:29;Pausado;12238,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+605439;Central de Aprovaï¿½ï¿½o - Na opï¿½ï¿½o Personalizar adicionar o Campo Sï¿½cio (S) E Nï¿½o-Socio (N);01/04/2025 15:20;Novo;;Indï¿½stria;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+592826;Central de Aprovaï¿½ï¿½o - Apresentar apresentar informaï¿½ï¿½es do cheque na Central de Aprovaï¿½ï¿½o.;24/02/2025 17:42;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+605078;Incluir o Nï¿½mero do Termo Aditivo na NFe;01/04/2025 08:47;Aguardando;15528,00;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+606726;Distribuiï¿½ï¿½o de Sobras - Integralizaï¿½ï¿½o de Capital Social e Geraï¿½ï¿½o de Tï¿½tulos a Pagar;04/04/2025 10:55;Aguardando;2506,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+605213;Demonstrativo de Contas a Pagar e Receber - Ao utilizar o filtro provisï¿½o financeira nï¿½o geram tï¿½tulos financeiros.;01/04/2025 11:01;Pausado;13867,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+581001;Extrato de movimento de Controle NF por pessoa e Local - Relatï¿½rio nï¿½o estï¿½ respeitando filtros informados.;23/01/2025 15:49;Aguardando;15590,00;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+582364;Cancelamento Automï¿½tico de Solicitaï¿½ï¿½o de Transferï¿½ncia;28/01/2025 12:02;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+596397;Rastreabilidade de documento - Diferenï¿½a de valores entre Contï¿½bil e Fiscal.;07/03/2025 08:56;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+621199;Borderï¿½ - Pagamento em duas contas diferentes;21/05/2025 11:03;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+623508;Melhoria Adiantamento de Pedido de Compra e Faturamento de Entrada.;28/05/2025 11:02;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+620824;Geraï¿½ï¿½o de Boleto Bancï¿½rio - Nï¿½o possibilita a impressï¿½o.;20/05/2025 14:45;Aguardando;15558,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+621081;"Melhoria na tela ""Preï¿½o Alvo"".";21/05/2025 09:05;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+630325;"Configurador de Encargos Financeiros - Erro ao atribuir ""Encargo Financeiro"" a tï¿½tulos de baixa de itens no Pedido de Venda que gera financeiro.";17/06/2025 16:33;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+631248;Liberar Valor a Pagar - Aviso: Nï¿½o Foi Encontrado faixa configurada para o valor 12613000. No Processo: Liberaï¿½ï¿½o de Valor a Pagar.;20/06/2025 17:34;Pausado;15857,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+631256;Configurador de Aprovaï¿½ï¿½o - Atenï¿½ï¿½o O valor informado ï¿½ maior que o valor mï¿½ximo permitido: 9.999.999,99;20/06/2025 17:47;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+637309;"Ordenar por ordem alfabï¿½tica o relatï¿½rio ""Saldo de Controle de Documento""";09/07/2025 16:30;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+634342;Criar automatizaï¿½ï¿½o para ao gerar Boleto de Pedido que gera Financeiro (Quando Tipo Cobranï¿½a = Boleto Bancï¿½rio - Bradesco);01/07/2025 15:39;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+633372;Ter pessoas permitidas no processo de aprovaï¿½ï¿½o alteraï¿½ï¿½o de encargos;27/06/2025 15:17;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+633376;Criar histï¿½rico de aprovaï¿½ï¿½o de tï¿½tulo - Onde apareï¿½a a justificativa do porque da solicitaï¿½ï¿½o que o usuï¿½rio estï¿½ fazendo (usuï¿½rio solicitante);27/06/2025 15:40;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+633394;Cï¿½lculo de Juros p/ Recebimento de cheque (Calcular Juros p/ a data do vencimento do Cheque);27/06/2025 15:44;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+637603;"Relatï¿½rio ""Ficha do Produtor Visï¿½o Cliente"" nï¿½o contempla encargos financeiros.";10/07/2025 13:59;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+639658;Contas a Receber - Boleto nï¿½o registrado no banco devido ï¿½ ausï¿½ncia de remessa.;16/07/2025 16:35;Pausado;14186,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+639675;Consulta de Aprovaï¿½ï¿½o - Ausï¿½ncia de Informaï¿½ï¿½es em Consulta de Aprovaï¿½ï¿½o.;16/07/2025 16:58;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+641555;"Contas a Pagar - Inclusï¿½o da coluna de ""Data Programada Pagamento"".";22/07/2025 16:10;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+641631;Consulta de Aprovaï¿½ï¿½o - Aviso: Nï¿½o implementado relatï¿½rio para esta consulta.;22/07/2025 17:42;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+617917;Gerenciador NFe -  Tratar retorno: Aviso: Falha na comunicaï¿½ï¿½o com Hendow.;12/05/2025 15:48;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+585798;Gerenciador NFe - Atenï¿½ï¿½o Nota nï¿½o pode ser cancelada pois pedido de venda 996 de nota origem jï¿½ foi faturado na nota: 527 filial: 04-CONTENDA. Verifique!;06/02/2025 08:09;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+605348;Movimentaï¿½ï¿½o Agrï¿½cola por Pessoa - Saldo duplicado de produtor;01/04/2025 13:43;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+599504;Permitir informar o mesmo CNPJ para mais de um local;15/03/2025 08:39;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+601321;Tratamento Proporï¿½ï¿½o do Ato Cooperado Quando Saldo Negativo - Separaï¿½ï¿½o pela Entrada e Contabilizaï¿½ï¿½o;20/03/2025 10:19;Aguardando;15573,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+607060;Romaneio - Faturamento de Entrada, ao cancelar o status do romaneio nï¿½o volta para encerrado.;05/04/2025 14:39;Aguardando;18213,00;;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+608216;Faturamento de Entrada - Criar fluxo para aprovar devoluï¿½ï¿½es.;09/04/2025 11:12;Aguardando;13457,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+608288;Preï¿½o Alvo - melhorar a tela para que esteja visivel ao usuï¿½rio a filial vinculada na configuraï¿½ï¿½o.;09/04/2025 12:00;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+609054;Ordem de carregamento - Melhorias.;10/04/2025 20:15;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+609703;Faturamento de Saï¿½da - Emissï¿½o quando existe Boleto e MDFe.;14/04/2025 10:15;Pausado;;Indï¿½stria;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+581350;Formaï¿½ï¿½o do Preï¿½o de Venda - Apresentar cï¿½digo do produto na listagem.;24/01/2025 13:29;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+616107;Ticket 514315 Matriz de Comissao - adequar conforme critï¿½rios do anexo.;06/05/2025 17:01;Aguardando;13860,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+616133;13301 [Ordem de Carregamento] Nï¿½o obrigar informar lote ao criar a ordem;06/05/2025 17:33;Aguardando;12883,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+619315;Compra - Importaï¿½ï¿½o direta exterior;15/05/2025 09:59;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+638985;Contratos de Compra e Venda - obrigatï¿½rio o preenchimento da programaï¿½ï¿½o financeira;15/07/2025 10:46;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+641395;Reversï¿½o de Fixaï¿½ï¿½o - melhorar a mensagem quando existe acerto de conta vinculado que deve ser extornado;22/07/2025 11:44;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+634207;Faturamento de entrada - Erro: Algo deu errado ao exibir estï¿½ pï¿½gina da web.;01/07/2025 11:59;Pausado;12214,00;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+617010;Relatï¿½rio - Extrato Movimentaï¿½ï¿½o Estoque -  item Pessoa;08/05/2025 17:11;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+633077;Importaï¿½ï¿½o NF-e de Terceiros - Erro: Ocorreu um problema ao comunicar com o servidor(Code 500);27/06/2025 07:58;Pausado;15980,00;Insumos;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+612158;Lanï¿½amentos Contï¿½beis  transferencia entre conta financeira  aparecendo e lotes em aberto;23/04/2025 11:39;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+592521;Faturamento de Saï¿½da- Tratar para notas de devoluï¿½ï¿½o de compra de grï¿½os gerar corretamente as retenï¿½ï¿½es que ocorreram na origem;24/02/2025 10:25;Aguardando;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+621109;Limite de Crï¿½dito - Status:  Com Falha - Nï¿½o Iniciado.;21/05/2025 09:10;Aguardando;15589,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+626297;Importaï¿½ï¿½o NFe de Terceiros - Ocorreu um problema ao comunicar com o servidor O servidor retornou que nï¿½o conseguiu responder a solicitaï¿½ï¿½o (code 500);05/06/2025 10:10;Pausado;14819,00;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+585401;Configurador de Aprovaï¿½ï¿½o - Ajuste de Contas com Encargos Nï¿½o Estï¿½ Salvando.;05/02/2025 10:12;Aguardando;18237,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+632146;Central do Associado - Alteraï¿½ï¿½o de Matrï¿½cula;24/06/2025 17:19;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+618189;Contas a Pagar - Filtrando uma carteira financeira com tï¿½tulos  fica aguardando e nï¿½o traz os movimentos pra tela.;12/05/2025 18:04;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+613945;P02 - Layout de Impressï¿½o CKEditor 4.22.1 (Standard) Task [13544];29/04/2025 10:13;Pausado;13544,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+616377;Entrada de Grï¿½o Destinado a Semente - Opï¿½ï¿½o de rateio por ordem cronolï¿½gica.;07/05/2025 13:59;Pausado;;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+616575;Contas a Receber - Ao Sustar Protesto com Manutenï¿½ï¿½o em Carteira gera mensagem de inconsistï¿½ncia.;07/05/2025 16:36;Pausado;14652,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+585814;Fï¿½brica de Raï¿½ï¿½o - Faturar Quantidade Maior que o Pedido de Venda;06/02/2025 08:45;Aguardando;20975,00;Indï¿½stria;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+587806;Sair nos dados adicionais do danfe da nota fiscal de quebra - dados referentes a transferencia que originou a quebra;11/02/2025 14:56;Pausado;;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+588158;Sair nos dados adicionais do danfe da nota fiscal de Deposito da Commoditie p/ Semente - Campo de Semente, Cultivar / Categoria;12/02/2025 08:55;Pausado;11266,00;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+589775;Balancete - Inseguranï¿½a nas Informaï¿½ï¿½es Apresentadas no Balancete.;17/02/2025 08:32;Pausado;8190,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+589082;Relatï¿½rio de Conciliaï¿½ï¿½o de Estoque Prï¿½prio Nï¿½o Apresenta Todas as Movimentaï¿½ï¿½es da Contabilidade.;13/02/2025 15:53;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+591554;Importaï¿½ï¿½o NFe de Terceiros - Evoluï¿½ï¿½o na busca de documentos emitidos contra o CNPJ da cooperativa;20/02/2025 11:41;Aguardando;11658,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+611099;Rateio do Ato Cooperado alterando saldo inicial do balancete de perï¿½odos anteriores;17/04/2025 08:50;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+607321;Receita Eventual - Erro: O corpo da requisiï¿½ï¿½o estï¿½ invï¿½lido, verifique a sintaxe.;07/04/2025 13:59;Aguardando;8450,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+604722;Ticket de Pesagem - Imprimir Descontos de Classificaï¿½ï¿½o no Ticket de Pesagem Na Ordem de Lanï¿½amento da Classificaï¿½ï¿½o.;31/03/2025 11:50;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+604270;Relatï¿½rio - Saldo Agrï¿½cola Por Cliente - Apresentar Totalizador Geral;28/03/2025 12:03;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+612928;Contrato de Compra - Apresentando Saldo Incoerente.;25/04/2025 08:48;Aguardando;13341,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+611027;Gerenciador de NFe - Aï¿½ï¿½o Para Notas Rejeitadas, Denegadas, Sem Status;16/04/2025 17:22;Aguardando;16223,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+612739;Faturamento de Entrada - Realizar Devoluï¿½ï¿½o Automï¿½tica Quando Quantidade da Nota For Maior Que a Quantidade do Romaneio;24/04/2025 15:29;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+598323;Ficha do Produtor Visï¿½o Cliente - Qtd Bxd Trazendo Saldo Bloqueado.;12/03/2025 16:01;Aguardando;15536,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+588748;Listagem de Romaneios - Apresentar Resumo de Entradas Por Genï¿½tica;13/02/2025 09:11;Pausado;14280,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+586375;Transferï¿½ncia de Grï¿½os Entre Filiais - Quando Houver Emissï¿½o de Nota Fiscal de Quebra, Apresentar Nota em Tela;07/02/2025 09:09;Pausado;14279,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+619147;Faturamento de Saï¿½da - Lanï¿½amentos Contï¿½beis Nï¿½o Estï¿½o Corretos;14/05/2025 17:19;Aguardando;18214,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+616630;Processamento de Taxas Agrï¿½colas - Permitir Seletor Mï¿½ltiplo Para os Campos Produto Agrï¿½cola, Pessoa e Local;07/05/2025 18:03;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+632204;Consultas de Pagamentos Bancï¿½rios - Na grid principal deve ser incluï¿½da a coluna borderï¿½ de pagamento, trazendo o nï¿½mero do borderï¿½ que gerou o pagamento bancï¿½rio caso existir.;25/06/2025 08:34;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+606370;"Melhoria da tela de ""Central de Aprovaï¿½ï¿½o"" no processo de ""Limite de Desconto Excedido no Pedido de Venda""";03/04/2025 13:55;Novo;13219,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+610574;Rastreabilidade Financeira - Filtro por grupo familiar;15/04/2025 18:19;Aguardando;18794,00;;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+626899;Fase 02 continuaï¿½ï¿½o Ticket 613944 -  Programaï¿½ï¿½o de Pagamento - centralizar em uma ï¿½nica tela;06/06/2025 14:45;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+634888;Faturamento de Saï¿½da - Bloqueio de emissï¿½o de notas com operaï¿½ï¿½o interna de transferï¿½ncia x conta de estoque;02/07/2025 15:25;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+640511;Contrato de Venda - Atenï¿½ï¿½o Liquidaï¿½ï¿½o foi gerada pela Nota Fiscal de Expediï¿½ï¿½o. A liquidaï¿½ï¿½o sï¿½ poderï¿½ ser cancelada pelo processo de origem.;18/07/2025 13:56;Aguardando;18114,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+641059;"Extrato de Contrato de Venda - Devoluï¿½ï¿½es somam com movimentos de cumprimento de contrato no quando ""liquidaï¿½ï¿½o"".";21/07/2025 16:26;Aguardando;12408,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+589448;Nota Fiscal - Inclusï¿½o na descriï¿½ï¿½o dos produtos na Nota Fiscal.;14/02/2025 11:47;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+610804;Pedido de Venda - Atenï¿½ï¿½o: Pedido de Venda sem Contrato Vinculado.;16/04/2025 11:49;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+612869;Importacao NFe de Terceiros - Incidente na consulta! Status: 656. Motivo: Rejeiï¿½ï¿½o: Consumo Indevido (Ultrapassou o limite de 20 consultas por hora);24/04/2025 17:45;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+603832;Faturamento de Entrada - Nï¿½o Listam Usuï¿½rio Emissï¿½es de Algumas Notas Fiscais.;27/03/2025 11:41;Pausado;14378,00;Insumos;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+604375;Importaï¿½ï¿½o de CTe - Erro: Ocorreu um problema ao comunicar com o servidor  O servidor retornou que nï¿½o conseguiu responder a solicitaï¿½ï¿½o (code 500);28/03/2025 15:39;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+600414;Preï¿½o por Produto - Erro: 20300http://wiki.siagri.com.br/errors/20300Tempomï¿½ximodeprocessamentoexcedido;18/03/2025 14:19;Aguardando;15550,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+604772;"Erro <20300> na Emissï¿½o do Relatï¿½rio ""Listagem de Romaneios""";31/03/2025 13:46;Aguardando;15556,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+582999;Faturamento de Saï¿½da - Jï¿½ existe um registro na base de dados para a chave campo itemDocFatProduto com o valor id;29/01/2025 14:34;Aguardando;15546,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+594603;Bloqueio do Movimento Fiscal - Nï¿½o atualiza o registro com o usuï¿½rio que fez a ï¿½ltima alteraï¿½ï¿½o no bloqueio;28/02/2025 10:50;Aguardando;8450,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+594995;Apuraï¿½ï¿½o Pis Cofins - Tratativa de notas fiscais de serviï¿½o na Apuraï¿½ï¿½o de PIS/COFINS;03/03/2025 10:08;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+639780;Clover CRM - Bloqueio de Atualizaï¿½ï¿½o de Campos de ï¿½rea do Simer para o Clover CRM.;17/07/2025 09:01;Pausado;;CRM;Adequaï¿½ï¿½o;DIOGO ROCHA FERREIRA DE MENEZES
+610726;Remessa Boleto - Erro: 0301 Boleto nï¿½o estï¿½ registrado. Para resolver este problema, contate o beneficiï¿½rio do boleto. (G999-301);16/04/2025 10:28;Pausado;14186,00;Financeiro;Adequaï¿½ï¿½o;ALINE MARTINS PREGO
+608862;Excluir todos os movimentos do bem imobilizado no ato da Baixa;10/04/2025 14:43;Aguardando;"15366; 14310";Contabilidade;Adequaï¿½ï¿½o;LEONALDO LINO JUNIOR
+606242;[Bom Jesus] Solicitaï¿½ï¿½o para minimizar erros (cadastro de usuï¿½rio);03/04/2025 10:24;Pausado;;CRM;Adequaï¿½ï¿½o;JANE RAQUEL DOS REIS
+606256;[Bom Jesus] Recomendaï¿½ï¿½o - Registros agrï¿½colas.;03/04/2025 10:34;Pausado;;CRM;Adequaï¿½ï¿½o;JANE RAQUEL DOS REIS
+585312;Criar bloqueio de faturamento pedidos aprovados no aspecto preï¿½o e limite credito.;05/02/2025 09:16;Pausado;;Financeiro;Adequaï¿½ï¿½o;MARHANY SEQUINEL
+589198;[Bom Jesus] Pedido de Venda - Campanha de Oferta sem Desconto Comercial;13/02/2025 17:58;Pausado;;CRM;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+586816;Clover CRM - Ajustes na Integraï¿½ï¿½o de Preï¿½o Alvo entre ERP SIMER e Clover.;07/02/2025 18:12;Pausado;;Insumos;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+707815;Borderï¿½ de Pagamento - Pagamentos gerados em um dia e pagos no outro, estï¿½o sendo acertados no dia da geraï¿½ï¿½o.;06/01/2026 18:05;Aguardando;20137,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+693034;Borderï¿½ de Pagamento - Cancelamento do pagamento apï¿½s ser cancelado no banco.;28/11/2025 18:02;Aguardando;21603,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+666117;Contas a Receber - Erro: Ocorreram erros na alteraï¿½ï¿½o de um ou mais boletos.;23/09/2025 14:10;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+657822;importaï¿½ï¿½o de NFe de Terceiros -  Alteraï¿½ï¿½o de CST de ICMS;03/09/2025 09:16;Aguardando;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+658107;Lanï¿½amento contï¿½bil - Divergï¿½ncia entre razï¿½o e balancete;03/09/2025 14:24;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+658751;Incorporaï¿½ï¿½o de ST ao custo do produto.;04/09/2025 14:41;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+660947;Balancete de Verificaï¿½ï¿½o - Nï¿½o obedece o filtro de natureza da conta;10/09/2025 10:04;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+641885;Apuraï¿½ï¿½o PIS/COFINS - Apropriaï¿½ï¿½o de Crï¿½dito de PIS/COFINS sobre obra em andamento;23/07/2025 10:59;Aguardando;20193,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+644531;Gerenciador NFe - Exportaï¿½ï¿½o de XML por perï¿½odo Muito Grande;30/07/2025 11:19;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+646901;Relatï¿½rio Contas a Pagar e a Receber - Filtro conta contï¿½bil.;06/08/2025 08:21;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+684185;Apuraï¿½ï¿½o Pis/Cofins - Lanï¿½amento de Ajuste a Crï¿½dito Manual;05/11/2025 13:54;Aguardando;20191,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+708717;Distribuiï¿½ï¿½o de Sobras;08/01/2026 09:30;Aguardando;21259,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+713320;Cotaï¿½ï¿½o de Venda - Solicitaï¿½ï¿½o de Melhorias | Formataï¿½ï¿½o de nï¿½meros/valor para valor contï¿½bil;16/01/2026 16:41;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+691574;Layout de Impressï¿½o - Ajustes nas margens/bordas;26/11/2025 08:58;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+693373;Importaï¿½ï¿½o de Cte - Corrigir filtro de seleï¿½ï¿½o para a digitaï¿½ï¿½o/seleï¿½ï¿½o do documento;01/12/2025 14:37;Pausado;;Transporte;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+692487;Central de Aprovaï¿½ï¿½o - Solicitaï¿½ï¿½o de melhoria;27/11/2025 16:34;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+647418;Faturamento de Entrada - Aviso: Saldo Financeiro do Saldo de Controle de Nota Fiscal nï¿½o pode ser menor que zero para pessoas fï¿½sicas ou equiparadas ï¿½ produtor rural. Saldo Financeiro: -297.59. Nota: 2250, item FIBRA CONCENTRADO ALTO GRAO 38% PEL - GRANEL.;07/08/2025 09:53;Pausado;16723,00;Financeiro;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+645005;Pedido de Venda - Impressï¿½o do pedido de venda deverï¿½ apresentar saldo corretamente apï¿½s baixa de algum item;31/07/2025 11:04;Pausado;20644,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+643838;Solicitaï¿½ï¿½o de Transferï¿½ncia - Nï¿½o permiti excluir item e nem zerar a quantidade de produto;29/07/2025 08:53;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+644050;Importaï¿½ï¿½o NF-e de Terceiros - Apresenta msg: Atenï¿½ï¿½o Nï¿½o foi possï¿½vel processar pois o Hendow retornou o resumo do XML.;29/07/2025 11:55;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+648561;Central de Pedidos de Venda - Sistema estï¿½ considerando pedidos de venda com status de CANCELADO, no somatï¿½rio do A FATURAR.;11/08/2025 14:18;Pausado;16711,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+653174;Envio cï¿½digo externo do local da pessoa para o AgriQ;25/08/2025 10:04;Aguardando;17798,00;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+657932;Lanï¿½amento de NF de Terceiro Rateio de Despesa por Conta Contï¿½bil.;03/09/2025 10:38;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+653937;Faturamento de saï¿½da - Sistema informar/indicar/barrar faturamento caso local seja diferente do local da receita agronï¿½mica emitida;26/08/2025 16:32;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+666437;Faturamento de Saï¿½da - Formataï¿½ï¿½o do texto (pontuaï¿½ï¿½o ponto e vï¿½rgula) na DESCRIï¿½ï¿½O DOS PRODUTOS / SERVIï¿½OS estï¿½ fora do padrï¿½o da lï¿½ngua portuguesa;24/09/2025 09:58;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+667032;Nï¿½o permitir salvar pedido de venda com produto defensivo AgriQ sem apresentar o campo do Responsï¿½vel Tï¿½cnico informado;25/09/2025 10:32;Aguardando;18501,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+670059;Solicitaï¿½ï¿½o de Receituï¿½rio Agronï¿½mico - Solicitaï¿½ï¿½o de melhoria;02/10/2025 11:51;Pausado;;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+675602;Faturamento de Saï¿½da - Apresenta msg: Nï¿½MERO 12313 NFE/2 SAï¿½DA: LANï¿½AMENTO CONTï¿½BEIS Nï¿½O ESTï¿½O CORRETOS, EXISTE DIFERENï¿½A DE: -0,72 CMV 4180,57 VALOR BRUTO 4181,29 D;15/10/2025 15:32;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+675616;Central de Pedido de Venda - Solicitaï¿½ï¿½o de melhoria (Sistema gerar o registro de histï¿½rico de aprovaï¿½ï¿½o de substituiï¿½ï¿½o e a baixa do pedido de venda e por produto);15/10/2025 15:41;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+678045;Configurador de Aprovaï¿½ï¿½o - Solicitaï¿½ï¿½o de melhoria para Baixa de Pedido pela Central de Pedidos de Venda acrescentando o controle por filial e papeis de aprovaï¿½ï¿½o;21/10/2025 16:29;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+697261;Demora no processamento da apuraï¿½ï¿½o ICMS 11/12;09/12/2025 15:49;Aguardando;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+697468;Inconsistï¿½ncia Identificada no SPED ï¿½ Competï¿½ncia 11/25 -  *Arquivos enviados*;10/12/2025 09:01;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+710616;Considerar Frete Tonelada do Pedido de Venda no Limite de Crï¿½dito;12/01/2026 17:40;Aguardando;20450,00;Financeiro;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+699060;"Inclusï¿½o de campo ""Limite Total"" na tela de ""Central de Aprovaï¿½ï¿½o""";12/12/2025 16:36;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+687939;[Homologaï¿½ï¿½o 7.15] - Configurador de Adiantamento - Erro ao tentar salvar configuraï¿½ï¿½o;14/11/2025 09:04;Pausado;19201,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+673193;Configurador de Integraï¿½ï¿½o Plug Boleto ï¿½ Nï¿½o permite ter dois configuradores para filiais distintas;09/10/2025 16:39;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+673250;Inconsistï¿½ncia de Status de Boletos;09/10/2025 18:01;Produto | Desenvolvimento;18274,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+679154;Bloqueio de alteraï¿½ï¿½o manual da Carteira Financeira e Operaï¿½ï¿½o Interna nas rotinas de Receita Eventual e Lanï¿½amento de Despesas;23/10/2025 15:15;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+677150;Erro na Emissï¿½o e Baixa de Boletos ï¿½ Mensagem ï¿½Unexpected character ('<')ï¿½;20/10/2025 14:52;Aguardando;18578,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+666636;"Inclusï¿½o de ""Campo"" em algumas telas de ""Tipo de Renegociaï¿½ï¿½o""";24/09/2025 15:53;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+666776;Alteraï¿½ï¿½o de apresentaï¿½ï¿½o dos dados de juros e multa;24/09/2025 17:04;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+664879;Erro na soma dos tï¿½tulos apresentados na tela de Contas a Pagar.;19/09/2025 11:03;Pausado;17708,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+666046;Aviso:  Pedido(s) jï¿½ movimentado(s), nï¿½o serï¿½ possï¿½vel cancelar o adiantamento. Pedido(s): 347.;23/09/2025 12:00;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+642634;"Inclusï¿½o de Coluna de Usuï¿½rio em ""Personalizar"" na tela de ""Lanï¿½amento de Despesas""";24/07/2025 16:33;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+663304;"HOMOLOGAï¿½ï¿½O 7.14 - Erro - Nï¿½o estï¿½ trazendo as notas de devoluï¿½ï¿½o de mercadoria dos Contrato ""338"".";16/09/2025 12:01;Pausado;21668,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+661801;HOMOLOGAï¿½ï¿½O 7.14 - Receita Eventual nï¿½o grava observaï¿½ï¿½es;11/09/2025 18:08;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+658495;Contas a Receber - Erro: Ocorreram erros na alteraï¿½ï¿½o de um ou mais boletos.;04/09/2025 10:02;Pausado;17607,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+658519;Configurador de Integraï¿½ï¿½o Plug Boleto ï¿½ Ediï¿½ï¿½o de Convï¿½nio;04/09/2025 10:37;Pausado;17327,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+642321;Contas a Pagar e a Receber - Demonstraï¿½ï¿½o de Provisï¿½es no relatï¿½rio.;24/07/2025 10:17;Pausado;14065,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+692873;NF-e de devolucao com valor total superior a NF-e devolvida. [VNF informado: 18080.20, VNF Referenciado: 15000.00] Falha no envio da Nota. Motivo: NF-e de devolucao com valor total superior a NF-e devolvida. [VNF informado: 18080.20, VNF Referenciado: 15000.00]. Status: 545;28/11/2025 14:23;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+692092;Romaneio - Lanï¿½amentos contï¿½beis incorretos.;27/11/2025 07:57;Aguardando;20143,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+704689;Ordem de Produï¿½ï¿½o - Apontamento Finalizado com Erro quando recebe item duplicado;29/12/2025 18:11;Novo;19863,00;Indï¿½stria;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+705095;Lanï¿½amento de Despesas por XML;30/12/2025 15:03;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+657164;Extrato da Conta Financeira - Analï¿½tico nï¿½o exibe valor de cheques depositados.;02/09/2025 10:16;Pausado;17319,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+703253;Importaï¿½ï¿½o de CT-e ï¿½ Otimizaï¿½ï¿½o da Gestï¿½o de Seleï¿½ï¿½es em Lote;23/12/2025 10:50;Aguardando;20564,00;Transporte;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+726404;Carteira Financeira em central de aprovaï¿½ï¿½o;18/02/2026 11:02;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+729556;Apuraï¿½ï¿½o de ICMS/IPI - Notas Fiscais de Fornecedores do Simples Nacional com aproveitamento de credito de icms;25/02/2026 11:26;Pausado;21464,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+734430;Sped Contribuiï¿½ï¿½es Mï¿½s Jan/2026 - Falta dos Registros 1300 e 1700 Referente ao imposto retido.;09/03/2026 10:49;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+726185;D100 Sped Fiscal - Campo Obrigatï¿½rio Nï¿½o Preenchido. Registro D100. Campo: 17 IND_FRT;17/02/2026 18:00;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | SUPRIMENTOS | PRODUTO
+696965;Balancete de verificaï¿½ï¿½o - Criar filtro para determinar se serï¿½ apresentado ou nï¿½o contas sem movimento.;09/12/2025 09:51;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+708547;Criar um configurador para determinar em qual campo serï¿½ gravado a diferenï¿½a entre a Base de Cï¿½lculo de ICMS e o Valor Contï¿½bil;07/01/2026 18:35;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+718819;Nota Fiscal de Crï¿½dito presumido e geraï¿½ï¿½o automï¿½tica desse crï¿½dito na apuraï¿½ï¿½o;29/01/2026 18:19;Novo;21019,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+719224;Conta Contï¿½bil gravada no tï¿½tulo nï¿½o estï¿½ respeitando o tipo de associado.;30/01/2026 16:20;Aguardando;21020,00;Financeiro;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+682927;Apuraï¿½ï¿½o de PIS COFINS - Manter em tela o registro que ainda esta sendo excluï¿½do;03/11/2025 09:32;Novo;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+684590;Cadastro Pessoa - Permite Salvar sem colocar informaï¿½ï¿½es quando categoria produtor rural;06/11/2025 10:06;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+680646;Balancete de Verificaï¿½ï¿½o Por conta auxiliar;28/10/2025 10:34;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+680702;Relatï¿½rio Saldo de Estoque Fï¿½sico/Prï¿½prio.;28/10/2025 11:29;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+722259;Envio do vinculo de receita e nota fiscal automatico nao estï¿½ funcionando;06/02/2026 15:34;Novo;;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+723846;Controle de assinatura para Contrato de Limite de Crï¿½dito;11/02/2026 09:55;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+688407;Aï¿½ï¿½o de Reenvio Manual de Nota Fiscal para Receituï¿½rio AgriQ;17/11/2025 08:52;Aguardando;19199,00;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+648317;Baixa do pedido com tï¿½tulo sem encargos financeiros;11/08/2025 08:42;Aguardando;17616,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+653123;Central de Aprovaï¿½ï¿½o - criar fluxo que valide quantidade de dias do vencimento financeiro do pedido de venda;25/08/2025 08:47;Novo;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+678158;Recebimento de Adiantamento - criar parametro para bloquear a alteraï¿½ï¿½o de operaï¿½ï¿½o interna e carteira financeira;22/10/2025 06:55;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+730031;Limite de Credito - novo campo na central de aprovaï¿½ï¿½o;26/02/2026 09:47;Aguardando;21457,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+717444;Restriï¿½ï¿½o de Venda - tratamento para simples remessa e titulo com manutenï¿½ï¿½o de data de vencimento;27/01/2026 15:02;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+691988;Criar parametro para bloquear a inclusï¿½o de novos limites de credito mesmo que o primeiro tenha vigencia encerrada.;26/11/2025 16:16;Novo;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+687098;Aï¿½ï¿½o de remoï¿½ï¿½o de itens nï¿½o salva.;12/11/2025 13:41;Pausado;;T.I;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+692078;HOMOLOGAï¿½ï¿½O 7.15 - Renegociaï¿½ï¿½o de Contas a Receber;26/11/2025 19:16;Pausado;19432,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+719774;ERRO EM DADOS RELATï¿½RIO ANALï¿½TICO - CONTAS A PAGAR POR TIPO DE CONTRATO DE COMPRA;02/02/2026 15:08;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+706066;TELA PARA CONFERï¿½NCIA DE PAGAMENTOS - ROTINA PARA CONFERï¿½NCIA;03/01/2026 14:01;Pausado;;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+699017;Link Clicï¿½vel na Observaï¿½ï¿½o da Cotaï¿½ï¿½o de Venda;12/12/2025 15:53;Aguardando;20273,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+681043;Relatorio Listagem de Romaneios - Inclusï¿½o de coluna de Tipo de Operaï¿½ï¿½o na Listagem de Romaneios.;28/10/2025 17:45;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+725904;Prevenir Duplicidade de Solicitaï¿½ï¿½es de Receituï¿½rio Enviadas ao AgriQ via Opï¿½ï¿½o Reenviar;16/02/2026 17:52;Aguardando;21593,00;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+726069;Prevenir Duplicidade de Receitas Avulsas;17/02/2026 11:46;Aguardando;21610,00;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+653635;Permitir o Cancelamento de Receituï¿½rio AgriQ Vinculado com Nota Fiscal Denegada;26/08/2025 09:01;Aguardando;21254,00;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+688182;Solicitaï¿½ï¿½o de receita duplicando no Agriq.;14/11/2025 15:41;Pausado;;Detec;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+733063;Melhoria - Notificaï¿½ï¿½o de erro de captura de peso na tela de notificaï¿½ï¿½es;04/03/2026 17:11;Pausado;;T.I;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+714812;Liberaï¿½ï¿½o de rotinas para Arquivos ECD e ECF;21/01/2026 09:57;Aguardando;11822,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+710782;Nota do Produtor Apresentar no Livro Fiscal e Sped Fiscal;13/01/2026 09:58;Aguardando;21183,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+694936;TROCA DE ITEM  - Feito pelo Faturamento saï¿½da x Faturamento entrada;03/12/2025 18:24;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+700502;COMPENSAï¿½ï¿½O FINANCEIRA AUTOMï¿½TICA EM NOTAS DE DEVOLUï¿½ï¿½O DE GRAOS;16/12/2025 18:01;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+710189;CANCELAMENTO DE CONTRATO BARTER - O Contrato nï¿½o pode ser cancelado, pois possui vï¿½nculo com o Pedido de Venda: 5019;12/01/2026 10:31;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+705872;Nota de Fixaï¿½ï¿½o - Nï¿½o Apresenta o Campo da Fatura/Duplicata na impressï¿½o do Danfe.;02/01/2026 15:57;Aguardando;20446,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+705715;RELATï¿½RIO SALDO DE CONTRATO DE COMPRA - TRAZER VALOR TOTAL;02/01/2026 11:26;Pausado;15765,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+683568;Relatï¿½rio Listagem de Romaneio - Inclusï¿½o de filtro para operaï¿½ï¿½o interna.;04/11/2025 10:21;Aguardando;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+732491;Solicitaï¿½ï¿½o de Melhoria ï¿½ Permitir Partilha de Romaneio entre Pessoa Fï¿½sica e Pessoa Jurï¿½dica;03/03/2026 18:52;Aguardando;21596,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+696562;Controle de Royalties - Incluir na Integraï¿½ï¿½o Simer x Bayer, Tratativas Especï¿½ficas para Integraï¿½ï¿½o do Recebimento e Fixaï¿½ï¿½o de Soja para Semente;08/12/2025 14:23;Novo;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+704420;Processamento de Taxas Agrï¿½colas - Adequaï¿½ï¿½es Nas Filas e Processamento.;29/12/2025 13:47;Aguardando;18174,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+660314;Devoluï¿½ï¿½es - Seguir Valor Unitï¿½rio de Nota de Origem;09/09/2025 10:21;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+663288;Controle de Lote de Semente - Alterar Numeraï¿½ï¿½o de Termos de Conformidade Cadastrados.;16/09/2025 12:01;Aguardando;12540,00;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+655453;Contrato de Compra - Retirar Vï¿½rgula e Casas Apï¿½s a Vï¿½rgula do Campo de Sacas dos Contratos de Compra.;29/08/2025 15:08;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+657190;Recepï¿½ï¿½o de Cevada - Destinar Produto Recebido com Classificaï¿½ï¿½o Especï¿½fica ï¿½ Outro Cï¿½digo de Cadastro;02/09/2025 11:05;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+657254;Fixaï¿½ï¿½o - Permitir Inserir Preï¿½o Manualmente Para Determinado Produto e Filial;02/09/2025 11:28;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+652165;Desconto de Funrural - Permitir Descontar Funrural Quando Marcada Opï¿½ï¿½o 'Produtor de Semente' no Cadastro de Pessoa.;21/08/2025 09:20;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+682183;Nota Fiscal do Produtor - Sistema Permitindo Lanï¿½amento da Mesma Nota Mais de Uma Vez.;30/10/2025 15:55;Aguardando;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+682555;Contrato de Venda - Faturamento de Saï¿½da - Nota de Complemento de Preï¿½o Nï¿½o Baixando Saldo a Liquidar do Contrato;31/10/2025 12:24;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+677565;Adaptar Boletim de Anï¿½lise de Sementes e Termo de Conformidade para a espï¿½cie de Feijï¿½o;21/10/2025 08:48;Produto | Desenvolvimento;12540,00;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+677609;Descarte de Sementes - Criar Facilitador Onde o Descarte ï¿½ Por Quantidade e Nï¿½o Romaneio a Romaneio.;21/10/2025 09:01;Produto | Desenvolvimento;;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+671180;Processamento de Taxas Agrï¿½colas - Permitir Cancelamento de Vï¿½rios Processamentos Simultaneamente;06/10/2025 11:30;Produto | Desenvolvimento;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+672342;Campo de Semente - Criar Gerenciador de Arquivos;08/10/2025 10:37;Aguardando;20878,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+667656;Adicional de Preï¿½o Agrï¿½cola Por Pessoa - Preencher Automaticamente Com a Data Atual o Campo de Data de Validade;26/09/2025 14:42;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+669640;Termo Aditivo - Layout de Impressï¿½o e Dados Impressos;01/10/2025 16:42;Produto | Desenvolvimento;;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+684870;Fila Ativa - Acesso do usuario.;06/11/2025 16:11;Pausado;19042,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+650373;Adicional Preï¿½o Agrï¿½cola por Pessoa - Data validade adicional preenchida automatico.;15/08/2025 11:59;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+651053;Contrato de Compra - obrigatoriedade de algumas informaï¿½ï¿½es.;18/08/2025 16:47;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+646108;Gerenciador NFe - Notas Sem Status.;04/08/2025 14:17;Aguardando;15576,00;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+659024;Ajustar Pedido de Venda com Itens Reprovados;05/09/2025 08:45;Aguardando;18359,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+705848;Faturamento Entrada : informacao campos 'Fatura/Duplicata' em branco;02/01/2026 15:11;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+715728;Relatorio : Conciliacao Pedidos de Venda x Contabilidade;22/01/2026 16:51;Aguardando;;Contabilidade;Adequaï¿½ï¿½o;VISTRA BI | SERVIï¿½OS
+713940;Central de Pedido de Venda : Lentidï¿½o quando alterado o filtro dias da  'data inicio emissao';19/01/2026 16:43;Pausado;;T.I;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+713992;Transferencia entre contas financeiras : opcao para impressao;19/01/2026 17:10;Pausado;;T.I;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+693787;Descarte de beneficiamento : Sementes.;02/12/2025 10:40;Pausado;;Sementes;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+684285;Erro: Ocorreram os seguintes erros aos integra o documento com Hendow.;05/11/2025 15:26;Aguardando;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+692027;"Faturamento de entrada - Ao realizar um desfazimento apresenta a seguinte mensagem ""Nï¿½o hï¿½ saldo suficiente na origem para produto informado""";26/11/2025 18:18;Pausado;19404,00;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+723994;Ajuste de Casas Decimais na Tela de Aprovaï¿½ï¿½o de Cotaï¿½ï¿½o de Venda;11/02/2026 11:50;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+642360;"Listagem de Romaneios - Coluna ""Peso Lï¿½quido"" Apresenta Saldo Incorreto.";24/07/2025 10:29;Aguardando;15545,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+653156;Apuraï¿½ï¿½o CIAP - Inclusï¿½o das Exportaï¿½ï¿½es no Cï¿½lculo.;25/08/2025 10:20;Aguardando;18087,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+708522;Apuraï¿½ï¿½o ICMS- Divergï¿½ncia entre livro fiscal e apuraï¿½ï¿½o;07/01/2026 17:47;Aguardando;11601,00;Contabilidade;Adequaï¿½ï¿½o;SIMER | LEGAL | PRODUTO
+729743;Homologaï¿½ï¿½o de cï¿½meras LPR;25/02/2026 15:40;Pausado;;T.I;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+691271;Central Pedido de Venda - Aviso: Jï¿½ houve movimento para o item ATTILA GL do pedido gerado entï¿½o nï¿½o pode ser cancelado. Tipo Movimento: Faturamento;25/11/2025 14:07;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+686149;Dados do emitente do cheque nï¿½o aparecem em algumas solicitaï¿½ï¿½es na central de aprovaï¿½ï¿½o.;11/11/2025 08:32;Pausado;19173,00;Financeiro;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+731496;Cadastro de Produto - Abas bloqueadas para ediï¿½ï¿½o;02/03/2026 14:19;Pausado;;Contabilidade;Adequaï¿½ï¿½o;SIMER | BACKOFFICE | PRODUTO
+697964;CANCELAMENTO DE LANï¿½AMENTO DE NOTA DE FIXAï¿½ï¿½O PJ;10/12/2025 17:32;Pausado;;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+686312;Inclusï¿½o do valor total do contrato e remoï¿½ï¿½o das colunas ï¿½Funcionalï¿½ e ï¿½Moedaï¿½ no relatï¿½rio;11/11/2025 10:23;Aguardando;15765,00;Grï¿½os;Adequaï¿½ï¿½o;SIMER | VERTICAIS | PRODUTO
+725950;Melhoria na Ordem de Carregamento: Exibiï¿½ï¿½o do Estoque Fï¿½sico da Filial Atendente na Solicitaï¿½ï¿½o de Transferï¿½ncia;17/02/2026 08:05;Pausado;;Insumos;Adequaï¿½ï¿½o;SIMER | INSUMOS | PRODUTO
+704539;LOTE Nï¿½O ENCONTRADO NA ROTINA FATURAMENTO DE SAIDA E ENTRADA;29/12/2025 15:35;Aguardando;21169,00;Contabilidade;Adequaï¿½ï¿½o;RENAN BRENO CARVALHO
+663401;Central de pedido de vendas - Apresenta campo de preenchimento obrigatï¿½rio em tela de acompanhamento;16/09/2025 14:37;Aguardando;18282,00;;Adequaï¿½ï¿½o;RENAN BRENO CARVALHO
+722940;Problemas identificados ao realizar o processamento de taxas;09/02/2026 16:34;Aguardando;21070,00;Grï¿½os;Adequaï¿½ï¿½o;RENAN BRENO CARVALHO
+689118;Ajuste no relatï¿½rio de Depreciaï¿½ï¿½o de Imobilizado.;18/11/2025 13:44;Aguardando;;Contabilidade;Adequaï¿½ï¿½o;PEDRO HENRIQUE MENDES
+719850;Relatï¿½rio de vendas de produtos com princï¿½pio ativo acefato;02/02/2026 16:30;Aguardando;;Detec;Adequaï¿½ï¿½o;PEDRO HENRIQUE MENDES
+686720;Relatorio que apresente receitas vinculadas com pedidos de venda com moviemnto de baixa e notas de devoluï¿½ï¿½o;11/11/2025 17:16;Aguardando;;Detec;Adequaï¿½ï¿½o;PEDRO HENRIQUE MENDES
+688829;Alteraï¿½ï¿½es indevidas em Perfil de Acesso e falha no log do sistema.;17/11/2025 18:08;Pausado;19255,00;T.I;Adequaï¿½ï¿½o;DANILO COSTA
+690625;HOMOLOGAï¿½ï¿½O 7.15 - CONCILIAï¿½ï¿½O BANCï¿½RIA - CRIAR RELATï¿½RIO COM OS DADOS DO EXTRATO BANCï¿½RIO;24/11/2025 11:45;Pausado;;Financeiro;Adequaï¿½ï¿½o;LUCAS DIAS REZENDE
+691055;Lanï¿½amento de compra consignado por XML;25/11/2025 09:25;Novo;;Contabilidade;Adequaï¿½ï¿½o;MARCELO ANDRE ENGELMANN
+660037;[API Clover] - Endpoint VinculoImobiliario - filtros;08/09/2025 15:24;Pausado;;CRM;Adequaï¿½ï¿½o;JANE RAQUEL DOS REIS
+674023;Permitir seleï¿½ï¿½o de mï¿½ltiplas escolhas no relatï¿½rio de Potencial Plano Safra.;13/10/2025 09:15;Pausado;;T.I;Adequaï¿½ï¿½o;JANE RAQUEL DOS REIS
+684405;Inclusï¿½o dos campos 'Tipo de Ocorrï¿½ncia' e 'Ocorrï¿½ncia' no grade de lanï¿½amentos.;05/11/2025 17:30;Pausado;;CRM;Adequaï¿½ï¿½o;JANE RAQUEL DOS REIS
+686704;Evoluï¿½ï¿½o do relatï¿½rio - Conciliaï¿½ï¿½o de Receituï¿½rio Agronï¿½mico;11/11/2025 17:02;Aguardando;;Detec;Adequaï¿½ï¿½o;ADRIANO GRAMS
+735441;Analï¿½tico - Fixaï¿½ï¿½o de Produtos Royalties - Por Genï¿½tica e Por Fixaï¿½ï¿½o de Produtos Royalties - Por Nome;10/03/2026 17:48;Aguardando;;Grï¿½os;Adequaï¿½ï¿½o;ADRIANO GRAMS
+720634;Clover CRM - Central de Registros Agrï¿½colas nï¿½o aparecendo as atividades de Insumo Aplicado.;04/02/2026 08:20;Pausado;;T.I;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+722899;Registros Agrï¿½colas no cadastro de viagem;09/02/2026 15:54;Pausado;;CRM;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+727227;Relatï¿½rio: Potencial Plano Safra ï¿½ Filial;19/02/2026 15:31;Aguardando;;CRM;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+725101;Croqui de ï¿½rea: Arquivos KML e SHP das propriedades;13/02/2026 10:02;Aguardando;;CRM;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+732578;[BOM JESUS] Cotaï¿½ï¿½es de Produtos - Clover CRM;04/03/2026 09:03;Aguardando;;CRM;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+732792;[BOM JESUS] Obrigatoriedade marca - Campanha de oferta de produtos;04/03/2026 12:04;Aguardando;;CRM;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+733243;[BOM JESUS] Tabela de preï¿½o - Tipo de Desconto Padrï¿½o;05/03/2026 09:40;Aguardando;;CRM;Adequaï¿½ï¿½o;ROBERTO ALENCAR
+723743;Aprimoramento no Layout de Impressï¿½o da Pesagem para Apoio ao Processo de Classificaï¿½ï¿½o de Grï¿½os;11/02/2026 08:46;Pausado;20989,00;T.I;Adequaï¿½ï¿½o;ANDERSON DA SILVA
+710135;Desenvolvimento de relatï¿½rio ï¿½ Controle de Transportadoras;12/01/2026 09:46;Aguardando;;Transporte;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+724085;Vistra BI - Ajustes Painel de Transferï¿½ncias;11/02/2026 14:29;Aguardando;;Vistra BI/Analitics;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+707729;Alinhamento sobre valores de vendas nos painï¿½is Vistra BI;06/01/2026 16:37;Aguardando;;Vistra BI/Analitics;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+720096;Divergencia de valores painel Vistra - Fixaï¿½ï¿½o - BJ;03/02/2026 09:52;Aguardando;;T.I;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+713670;"Inconsistencia nos dados do painel ""Recebimento Agricola - BJ""";19/01/2026 11:08;Aguardando;;Grï¿½os;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+679877;Criaï¿½ï¿½o de um Relatï¿½rio de Cartï¿½es Financeiro.;27/10/2025 08:46;Aguardando;;Vistra BI/Analitics;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+722036;Deixar como habilitado todas as series dos graficos dos paineis.;06/02/2026 10:19;Aguardando;;T.I;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+697619;CRIAï¿½ï¿½O DE PAINEL DE CENTRAL TELEFï¿½NICA;10/12/2025 10:50;Aguardando;;T.I;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+686879;Report - Conciliaï¿½ï¿½o Pedidos de Venda x Contabilidade;12/11/2025 09:24;Aguardando;;Contabilidade;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+655303;Criaï¿½ï¿½o de uma Painel de Despesa;29/08/2025 10:52;Aguardando;;Contabilidade;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+692045;Relatorio:  Analise Movimentacao de Produtores por Periodo;26/11/2025 17:26;Aguardando;;Financeiro;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+656021;Painel PA03002 - Painel de conta a pagar Diario - BJ;01/09/2025 09:32;Aguardando;;Financeiro;Adequaï¿½ï¿½o;BRENO DO CARMO SOUSA
+736297;Melhoria - Importaï¿½ï¿½o NFe de Terceiros: criar um campo de observaï¿½ï¿½es na aba financeira.;12/03/2026 11:01;Em Andamento;;Administrativo/Almoxarifado;Adequaï¿½ï¿½o;ALAN KARDEK DA SILVA BARROS NETO
+732323;Painel de Distribuiï¿½ï¿½o de Sobras base HOMOLOGAï¿½ï¿½O;03/03/2026 15:46;Aguardando;21421,00;Contabilidade;Adequaï¿½ï¿½o;ALAN KARDEK DA SILVA BARROS NETO

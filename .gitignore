@@ -1,0 +1,35 @@
+# Binários compilados
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+importer
+
+# Saída de Testes
+*.test
+*.out
+coverage.html
+
+# Ambientes / Configurações Sensíveis
+.env
+.env.local
+.env.*.local
+
+# Arquivos de Dados / Planilhas
+# Ignoramos SVs para evitar comitar dados sensíveis dos tickets da empresa
+*.csv
+
+# IDEs e Ferramentas (VSCode, IntelliJ, etc)
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos do Sistema Operacional (macOS, Windows, etc)
+.DS_Store
+Thumbs.db
+
+# Dependências temporárias / cache
+vendor/

@@ -1,4 +1,4 @@
-Numero;Assunto;Aberto em;Status;Numero Task;Departamento.;Categoria;Responsavel
+Numero;;;Assunto;Abertoss em;Status;Numero Task;Departamento.;Categoria;Responsavel
 242446;Contas Contabeis - Configurar a  requisicao ao relacionar as contas contabeis.;22/09/2023 10:39;Aguardando;15595,00;Contabilidade;Adequacao;SIMER | BACKOFFICE | PRODUTO
 245530;Editar nota fiscal de entrada sem necessidade de excluir a mesma e refazer o lancamento;03/10/2023 09:36;Novo;;Contabilidade;Adequacao;SIMER | BACKOFFICE | PRODUTO
 245622;Na selecao do pedido de venda no faturamento de saida mostrar a operacao do pedido pra facilitar a identificao;03/10/2023 11:23;Novo;;Insumos;Adequacao;SIMER | INSUMOS | PRODUTO
