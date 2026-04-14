@@ -21,6 +21,13 @@ go mod tidy
 go run cmd/main.go
 ```
 
+**Ou utilizando Docker (Ideal para Windows/Outras Máquinas):**
+Basta ter o Docker e o Docker Compose instalados e rodar na raiz do projeto:
+```bash
+docker-compose up --build -d
+```
+A API estará rodando na porta 8080 (podendo acessá-la perfeitamente em outras máquinas que acessem a sua na mesma rede), e o PostgreSQL na 5432. Os logs podem ser acompanhados com `docker-compose logs -f`.
+
 ---
 
 ## 🔗 Rotas Abertas (Usuários Comuns)
