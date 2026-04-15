@@ -32,6 +32,7 @@ services:
       - DB_SSLMODE=disable
       - API_PORT=8080
       - CSV_FILE=lista-tickets-BJ-csv.CSV
+      - JWT_SECRET=${JWT_SECRET:-senha-super-secreta-padrao}
     ports:
       - "8080:8080"
     depends_on:

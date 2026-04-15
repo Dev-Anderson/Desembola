@@ -46,3 +46,20 @@ func (r *userRepository) GetAllUsers() ([]*domain.User, error) {
 
 	return users, nil
 }
+
+func (r *userRepository) FindByEmail(email string) (*domain.User, error) {
+	var u domain.User
+	// Precisamos do senha_hash apenas no momento do Login pelo banco,
+	// porém o campo json:"-" do domain.User garante que não vaze para APIs públicas caso o Dev falhe.
+	err := r.db.QueryRow(`SELECT id, nome, email, senha_hash FROM usuarios WHERE email = $1`, email).
+		Scan(&u.ID, &u.Nome, &u.Email, &u.SenhaHash)
+
+	if err != nil {
+		if err == sql.ErrNoRows {
+			return nil, fmt.Errorf("usuário não encontrado")
+		}
+		return nil, err
+	}
+
+	return &u, nil
+}

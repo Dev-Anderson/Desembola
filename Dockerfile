@@ -3,12 +3,11 @@ FROM golang:alpine AS builder
 
 WORKDIR /app
 
-# Install dependencies
-COPY go.mod go.sum ./
-RUN go mod download
-
 # Copy source code
 COPY . .
+
+# Install dependencies and sync go.sum
+RUN go mod tidy
 
 # Build the binary
 RUN CGO_ENABLED=0 GOOS=linux go build -o /api cmd/main.go

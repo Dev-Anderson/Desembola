@@ -12,12 +12,14 @@ import (
 type UserHandler struct {
 	createUC *usecase.CreateUserUseCase
 	getUC    *usecase.GetUsersUseCase
+	loginUC  *usecase.LoginUseCase
 }
 
-func NewUserHandler(createUC *usecase.CreateUserUseCase, getUC *usecase.GetUsersUseCase) *UserHandler {
+func NewUserHandler(createUC *usecase.CreateUserUseCase, getUC *usecase.GetUsersUseCase, loginUC *usecase.LoginUseCase) *UserHandler {
 	return &UserHandler{
 		createUC: createUC,
 		getUC:    getUC,
+		loginUC:  loginUC,
 	}
 }
 
@@ -43,7 +45,7 @@ func (h *UserHandler) Register(c *gin.Context) {
 	}
 
 	c.JSON(http.StatusCreated, gin.H{
-		"message":  "Bem vindo! Usuário cadastrado com sucesso.",
+		"message": "Bem vindo! Usuário cadastrado com sucesso.",
 		"usuario": user,
 	})
 }
@@ -58,4 +60,28 @@ func (h *UserHandler) GetAll(c *gin.Context) {
 	}
 
 	c.JSON(http.StatusOK, users)
+}
+
+type LoginRequest struct {
+	Email string `json:"email"`
+	Senha string `json:"senha"`
+}
+
+// Login valida o e-mail/senha e devolve um JWT
+func (h *UserHandler) Login(c *gin.Context) {
+	var req LoginRequest
+	if err := c.ShouldBindJSON(&req); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Verifique os dados enviados (email, senha)."})
+		return
+	}
+
+	token, err := h.loginUC.Execute(req.Email, req.Senha)
+	if err != nil {
+		c.JSON(http.StatusUnauthorized, gin.H{"error": err.Error()})
+		return
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"token": token,
+	})
 }

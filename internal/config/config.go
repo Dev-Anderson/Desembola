@@ -17,6 +17,7 @@ type AppConfig struct {
 	CSVFileName         string
 	CleanDBBeforeInsert bool
 	APIPort             string
+	JWTSecret           string
 }
 
 func LoadConfig(envFile string) *AppConfig {
@@ -37,6 +38,7 @@ func LoadConfig(envFile string) *AppConfig {
 		CSVFileName:         csvFile,
 		CleanDBBeforeInsert: strings.ToLower(os.Getenv("CLEAN_DB_BEFORE_INSERT")) == "true",
 		APIPort:             os.Getenv("API_PORT"),
+		JWTSecret:           os.Getenv("JWT_SECRET"),
 	}
 }
 

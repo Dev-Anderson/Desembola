@@ -40,14 +40,15 @@ func main() {
 	// Construção das Classes do Sistema de Login/Acesso
 	createUserUC := usecase.NewCreateUserUseCase(userRepo)
 	getUsersUC := usecase.NewGetUsersUseCase(userRepo)
+	loginUC := usecase.NewLoginUseCase(userRepo, cfg.JWTSecret)
 
 	// Instanciando Controllers
 	ticketHandler := handler.NewTicketHandler(importUC, cleanUC, getUC)
-	userHandler := handler.NewUserHandler(createUserUC, getUsersUC)
+	userHandler := handler.NewUserHandler(createUserUC, getUsersUC, loginUC)
 
 	// 4. Configurando Rotas Web HTTP / GIN e as delegando!
 	r := gin.Default()
-	handler.SetupRoutes(r, ticketHandler, userHandler)
+	handler.SetupRoutes(r, ticketHandler, userHandler, cfg.JWTSecret)
 
 	// 5. Iniciar Escuta na Porta Definida no .env
 	port := cfg.APIPort

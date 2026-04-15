@@ -11,4 +11,5 @@ type User struct {
 type UserRepository interface {
 	SaveUser(u *User) error
 	GetAllUsers() ([]*User, error)
+	FindByEmail(email string) (*User, error)
 }
